@@ -1,0 +1,59 @@
+:root {
+  --bg: #15171a;
+  --bg-raised: #1d2025;
+  --bg-inset: #101214;
+  --border: #2d3138;
+  --border-strong: #3a3f47;
+  --text: #edf0f2;
+  --text-dim: #9aa2ab;
+  --text-faint: #656b73;
+
+  --grant: #ff5a1f;
+  --grant-dim: #4a2a19;
+  --sponsor: #ffc23c;
+  --sponsor-dim: #4a3c17;
+  --urgent: #ff2d55;
+
+  --font-head: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  background-image:
+    linear-gradient(var(--border) 1px, transparent 1px),
+    linear-gradient(90deg, var(--border) 1px, transparent 1px);
+  background-size: 48px 48px;
+  background-position: -1px -1px;
+  color: var(--text);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+select {
+  font-family: var(--font-body);
+}
+
+::selection {
+  background: var(--grant);
+  color: #17181a;
+}

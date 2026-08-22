@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "dow-frc-grant-2627",
+    "name": "Dow FRC Team Grant",
+    "org": "Dow",
+    "type": "grant",
+    "description": "General operating support for US and Canada FRC teams with a Dow employee mentor or located in a Dow community.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-06-30",
+    "amount": "Varies by need",
+    "link": "https://usfirst.submittable.com/submit/dd928dd3-2892-4ee0-826c-10f6b93684fd/2026-2027-dow-first-frc-grant-application",
+    "status": "closed",
+    "details": "Submit through Dow's Submittable portal; you'll need your FIRST team number, a brief needs statement, and (if not in a Dow community) contact info for your Dow employee mentor. This cycle has closed — the next window typically opens in spring.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "dow-fll-ftc-grant-2627",
+    "name": "Dow FLL & FTC Team Grant",
+    "org": "Dow",
+    "type": "grant",
+    "description": "General operating support for US and Canada FLL and FTC teams with a Dow employee mentor or located in a Dow community.",
+    "programs": [
+      "FLL",
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-06-30",
+    "amount": "Varies by need",
+    "link": "https://usfirst.submittable.com/submit/7ef618be-1615-4d06-b588-19b0583b33aa/2026-2027-dow-first-fll-ftc-grant-application",
+    "status": "closed",
+    "details": "Same Submittable process as the FRC grant: team number, needs statement, and Dow mentor/community documentation. This cycle has closed — check back in spring for the next application window.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "bae-fll-ftc-grant-2627",
+    "name": "BAE Systems FLL & FTC Team Grant",
+    "org": "BAE Systems",
+    "type": "grant",
+    "description": "Funding for FLL and FTC teams, prioritizing those within 75 miles of a BAE Systems site, with a BAE mentor, at Title I schools, or in high-need communities.",
+    "programs": [
+      "FLL",
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-07-08",
+    "amount": "Varies; priority for Title I schools & high-need communities",
+    "link": "https://forms.benevity.org/66a3c657-4e6e-4c72-a1ae-4b11d1e8e605",
+    "status": "closed",
+    "details": "Applied through BAE's Benevity grant form (linked from bae.firstrobotics@baesystems.com's official page). Priority goes to teams within 75 miles of a BAE site, with a BAE mentor, or at Title I schools — include that context in your application.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "digital-citizen-fund-rookie",
+    "name": "Digital Citizen Fund Rookie Team Grant",
+    "org": "Digital Citizen Fund",
+    "type": "grant",
+    "description": "Sponsors participation of US-based rookie FRC teams with all or majority-female membership; up to five $5,000 grants awarded across two seasons.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "rookie-only",
+    "deadline": "2026-06-01",
+    "amount": "$5,000",
+    "link": "https://forms.monday.com/forms/88d6872f000e6134ee4671f373a17d45?r=use1",
+    "status": "closed",
+    "details": "Requires proof of rookie status and team roster showing all-female or majority-female membership. Only five grants are awarded across both seasons combined, so apply as early in the window as possible.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "fikret-yuksel-foundation",
+    "name": "Fikret Yüksel Foundation Grant",
+    "org": "Fikret Yüksel Foundation",
+    "type": "grant",
+    "description": "Supports FRC teams competing in Türkiye regionals; requires a business plan, gender-equality action plan, and alumni engagement documentation.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2025-11-15",
+    "amount": "$2,000",
+    "link": "https://www.frcturkiye.org/2026hibebasvuru",
+    "status": "closed",
+    "details": "Application (via Google Form, in Turkish) requires a written business plan, a gender-equality action plan, and documentation of how the team engages its alumni network — this is more paperwork-heavy than most US grants.",
+    "country": "Türkiye",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "arconic-foundation-grant",
+    "name": "Arconic Foundation Grant",
+    "org": "Arconic Foundation",
+    "type": "grant",
+    "description": "For rookie and veteran FLL, FTC, and FRC teams located in specific Arconic Foundation communities.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "AR",
+      "GA",
+      "IL",
+      "IA",
+      "NY",
+      "TN",
+      "PA",
+      "IN"
+    ],
+    "eligibility": "both",
+    "deadline": "2025-10-31",
+    "amount": "$500 (FLL Explore) – $1,500 (FRC)",
+    "link": "https://usfirst.submittable.com/submit/6712a108-bfe6-4fc9-85a3-dd4d76a7b45c/2025-2026-arconic-foundation-grant-application",
+    "status": "closed",
+    "details": "Only open to teams physically located in one of Arconic's listed plant communities — check the list on the Submittable page before starting an application, since being in the right state isn't enough on its own.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "bae-frc-grant-2627",
+    "name": "BAE Systems FRC Team Grant",
+    "org": "BAE Systems",
+    "type": "grant",
+    "description": "Funding for FRC teams, prioritizing those within 75 miles of a BAE Systems site, with a BAE mentor, at Title I schools, or in high-need communities.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-09-13",
+    "amount": "Varies; priority for Title I schools & high-need communities",
+    "link": "https://forms.benevity.org/66a3c657-4e6e-4c72-a1ae-4b11d1e8e605",
+    "status": "open",
+    "details": "Applied through BAE's Benevity grant form. Priority goes to teams within 75 miles of a BAE site, with a BAE mentor, or at Title I schools/high-need communities — mention whichever applies to your team early in the form.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "john-deere-first-grant-2627",
+    "name": "John Deere FIRST Team Grant",
+    "org": "John Deere Foundation",
+    "type": "grant",
+    "description": "For FLL, FTC, and FRC teams located in a John Deere community or with a John Deere employee mentor. Deadlines vary by program (FLL Challenge is earliest, FRC and FTC follow through the fall) — the date shown is the earliest window.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-09-25",
+    "amount": "Varies by program and need",
+    "link": "https://johndeerefirst.submittable.com/submit/363342/2026-2027-john-deere-first-grant-application",
+    "status": "open",
+    "details": "Also open to FTC teams in Mexico and Canada, not just the US. Important: register your team with FIRST but do NOT pay the registration fee before applying, or you forfeit eligibility. Applications are reviewed weekly and you'll get an email confirmation once received.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "boston-scientific-frc-grant-2627",
+    "name": "Boston Scientific FRC Team Grant",
+    "org": "Boston Scientific",
+    "type": "grant",
+    "description": "For FRC teams within roughly 60 miles of a Boston Scientific site, prioritizing economically disadvantaged schools and communities.",
+    "programs": [
+      "FRC"
+    ],
+    "states": [
+      "CA",
+      "IN",
+      "MA",
+      "MN"
+    ],
+    "eligibility": "both",
+    "deadline": "2026-09-30",
+    "amount": "Varies",
+    "link": "https://usfirst.submittable.com/submit/a73801b4-1d46-4fbe-8f72-de268526e0cf/2026-2027-boston-scientific-frc-grant-application",
+    "status": "open",
+    "details": "Confirm your school/community is within roughly 60 miles of a Boston Scientific site in CA, IN, MA, or MN before applying — proximity is a hard eligibility filter, not just a scoring preference.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "boeing-team-grant-2627",
+    "name": "Boeing Team Grant",
+    "org": "Boeing",
+    "type": "grant",
+    "description": "For FLL, FTC, and FRC teams with a Boeing employee mentor or retiree. US-only for FLL/FTC; open to US and international teams for FRC.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-10-16",
+    "amount": "Varies",
+    "link": "https://usfirst.submittable.com/submit/cbc5394e-174b-4de6-8492-081e785225d8/boeing-team-grant-application-2026-2027",
+    "status": "open",
+    "details": "Requires a current Boeing employee or retiree connected to the team as a mentor — have their name and employee/retiree status ready when you apply. International FRC teams are eligible even without a US base.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "nasa-frc-grants",
+    "name": "NASA FIRST Robotics Competition Grant",
+    "org": "NASA Robotics Alliance Project",
+    "type": "grant",
+    "description": "NASA prioritizes Rookie, New Veteran, and Year-Two FRC teams, covering the first regional or district registration. Deadline is estimated from the prior cycle's pattern — confirm the exact date on NASA's site once the window opens.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "rookie-only",
+    "deadline": "2026-09-30",
+    "amount": "Covers first regional/district registration",
+    "link": "https://robotics.nasa.gov/2025-2026-frc-sponsorship-grants/",
+    "status": "upcoming",
+    "details": "US teams only — NASA cannot sponsor international teams. Registering for the application site does not register your team with FIRST; you'll need a FIRST team number first, and the portal times out after 120 minutes of inactivity, so save often.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "molex-sponsorship",
+    "name": "Molex FIRST Robotics Sponsorship",
+    "org": "Molex",
+    "type": "sponsorship",
+    "description": "Ongoing in-kind sponsor providing connector kits built for FIRST applications, plus team and event mentor support.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: connector kits & mentor support",
+    "link": "https://www.molex.com/en-us/experience/first-robotics",
+    "status": "rolling",
+    "details": "No application deadline — the site lists their SL and CAN connector kits directly; request one through the page or reach out about mentor support if a Molex site is near you.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "rev-robotics-frc-sponsorship",
+    "name": "Team REV Sponsorship (FRC)",
+    "org": "REV Robotics",
+    "type": "sponsorship",
+    "description": "REV Robotics awards a share of a $100,000 sponsorship pool to FRC teams that excel on the field and in community outreach.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Share of $100,000 sponsorship pool + product support",
+    "link": "https://www.revrobotics.com/frc-sponsorship-application/",
+    "status": "rolling",
+    "details": "Selection favors teams that combine strong on-field performance with real community outreach — be ready to describe both, not just competition results. Teams already sponsored by another FIRST-centric parts vendor are not eligible.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "rev-robotics-ftc-sponsorship",
+    "name": "Team REV Sponsorship (FTC)",
+    "org": "REV Robotics",
+    "type": "sponsorship",
+    "description": "REV Robotics awards a share of a $100,000 sponsorship pool to FTC teams that excel on the field and in community outreach.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Share of $100,000 sponsorship pool + product support",
+    "link": "https://www.revrobotics.com/ftc-sponsorship-application/",
+    "status": "rolling",
+    "details": "Same evaluation criteria as the FRC track — field performance plus community outreach. Teams already sponsored by another FIRST-centric parts vendor are not eligible.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "andymark-pdv",
+    "name": "AndyMark Product Donation Voucher",
+    "org": "AndyMark",
+    "type": "sponsorship",
+    "description": "Every registered FRC team can opt into a voucher credited toward checkout in place of a drive base or parts tote.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "$125 - $450 voucher (kit opt-out credit)",
+    "link": "https://andymark.com/pages/pdv",
+    "status": "rolling",
+    "details": "No separate application — every registered FRC team gets a voucher code in their Kit of Parts checkout flow if they opt out of the drive base or tote. Check your team dashboard for the code rather than emailing AndyMark.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "siemens-solid-edge",
+    "name": "Siemens Solid Edge FIRST Sponsorship",
+    "org": "Siemens",
+    "type": "sponsorship",
+    "description": "Free Solid Edge CAD software, learning resources, and certification for all FTC and FRC teams, plus funding for qualifying teams.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: free CAD software + funding for qualifying teams",
+    "link": "https://resources.sw.siemens.com/en-US/download-solid-edge-student-edition/",
+    "status": "rolling",
+    "details": "Create a free student/educator account to unlock Solid Edge — no waiting on approval for the software itself. Cash sponsorship for qualifying teams is a separate, more selective track handled through Siemens' FIRST program page.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "gene-haas-foundation-grant",
+    "name": "Gene Haas Foundation Student Competition Team Grant",
+    "org": "Gene Haas Foundation",
+    "type": "grant",
+    "description": "Sponsorship for FRC and FTC teams that use CNC machining to build their robot; funds can cover materials, travel, entry fees, and safety gear.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "opensOn": "2026-05-01",
+    "amount": "$3,000 (FRC) / $2,000 (FTC)",
+    "link": "https://www.ghaasfoundation.org/apply-now",
+    "status": "rolling",
+    "details": "Your team must actually use CNC machining in building the robot — describe that in the application. Funds cannot be spent on Haas-manufactured products or Haas Factory Outlet purchases. Applications for this competition season open after May 1.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "rtx-first-grant-program",
+    "name": "RTX FIRST Grant Program",
+    "org": "RTX (Raytheon Technologies) / NAF",
+    "type": "grant",
+    "description": "For NAF career academies with an active FIRST team in select RTX geographies; requires an interest form, info session, and a FIRST team number to apply.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "AZ",
+      "CA",
+      "CT",
+      "DC",
+      "FL",
+      "MA",
+      "NC",
+      "TX"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; requires active NAF academy + FIRST team number",
+    "link": "https://naf.org/rtx-first-grant-program",
+    "status": "rolling",
+    "details": "Your school must be a registered NAF academy — this isn't open to any school with a FIRST team. Process is multi-step: submit an interest form, attend an info session, then submit the full application with your FIRST team number. Cycle dates shift year to year, so check naf.org for the current window.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "dow-stem-robotics-grant",
+    "name": "DoW STEM Robotics Grant",
+    "org": "DoW STEM (formerly DoD STEM)",
+    "type": "grant",
+    "description": "Federal grant covering preseason team or Class Pack costs and FIRST Championship registration; the portal was renamed from DoD STEM to DoW STEM in 2025.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-06-12",
+    "amount": "Preseason team/Class Pack costs + Championship registration",
+    "link": "https://first.dowstem.us/access",
+    "status": "closed",
+    "details": "Federal program — the portal address changed from dodstem.us to dowstem.us after the department's 2025 rename, so double-check you're on the current domain before entering any info. This season's window has closed; the next typically opens in spring.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "first-stem-equity-grant",
+    "name": "FIRST STEM Equity Community Innovation Grant",
+    "org": "FIRST STEM Equity Initiative",
+    "type": "grant",
+    "description": "Pooled fund from corporate partners (3M, Apple, Bosch, Booz Allen Hamilton, Caterpillar, Cognizant, Dow, Qualcomm, RTX, Toyota, Disney and others) supporting community organizations that expand FIRST access for underserved youth.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; community-level grant",
+    "link": "https://www.firstinspires.org/programs/team-grant-opportunities",
+    "status": "rolling",
+    "details": "Targeted at community organizations (not individual teams applying solo) working to reach underserved or underrepresented youth — a clear equity/access narrative in your application matters as much as your budget request.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "wcp-frc-sponsorship",
+    "name": "West Coast Products (WCP) FRC Team Sponsorship",
+    "org": "West Coast Products (WCP)",
+    "type": "sponsorship",
+    "description": "Annual open sponsorship application for FRC teams committed to continuous improvement and community outreach; the 2026 cycle has closed, reopening in summer 2027.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-06-30",
+    "amount": "Parts & discount sponsorship package",
+    "link": "https://wcproducts.com/pages/sponsorship",
+    "status": "closed",
+    "details": "WCP looks for teams that show continuous improvement year over year and real community outreach, not just competition wins. This year's window is closed — the 2027 Open Sponsorship Application reopens in summer.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "protocase-sponsorship",
+    "name": "Protocase Student Sponsorship",
+    "org": "Protocase",
+    "type": "sponsorship",
+    "description": "No online application — email a brief project description, timeline, and the parts you need, and their team follows up to discuss design and financial need.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Up to $500/year toward custom enclosures & sheet metal parts",
+    "link": "mailto:info@protocase.com",
+    "status": "rolling",
+    "details": "Email info@protocase.com directly — there's no web form. Include your project timeline, the specific enclosure/sheet-metal parts you need, and your team's financial need; in return you must provide photos and allow Protocase to use your project for marketing.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "symbotic-partnerships",
+    "name": "Symbotic Community & STEM Partnerships",
+    "org": "Symbotic",
+    "type": "sponsorship",
+    "description": "Warehouse-robotics company headquartered in Wilmington, MA that supports STEM and robotics programs in its home community; there's no public FIRST-specific grant form — teams typically reach out directly about mentorship or sponsorship.",
+    "programs": [
+      "FRC"
+    ],
+    "states": [
+      "MA"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (mentorship, in-kind, or funding by direct arrangement)",
+    "link": "https://www.symbotic.com/careers/programs-and-partnerships/",
+    "status": "rolling",
+    "details": "There is no confirmed public FIRST grant program here — this is a realistic example of a large local employer worth approaching directly, especially for Massachusetts-area teams. Use their partnerships page to find the right community-relations contact rather than a generic info line.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "ni-first-partnership",
+    "name": "National Instruments (NI) FIRST Partnership",
+    "org": "National Instruments (NI)",
+    "type": "sponsorship",
+    "description": "The roboRIO controller and LabVIEW are included in every FRC kit of parts; NI also considers supplemental team grants, mainly in the Texas community around its headquarters.",
+    "programs": [
+      "FRC"
+    ],
+    "states": [
+      "TX"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "roboRIO & LabVIEW included in kit of parts; supplemental grants by request",
+    "link": "https://firstintexas.org/partner/national-instruments/",
+    "status": "rolling",
+    "details": "Every FRC team already gets the roboRIO and LabVIEW automatically — no request needed for that part. Supplemental grants beyond the standard kit are handled informally and concentrated around NI's Austin, TX headquarters community.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "3m-product-sponsorship",
+    "name": "3M Product & Community Sponsorship",
+    "org": "3M",
+    "type": "sponsorship",
+    "description": "3M supports FIRST globally through product donations (Dual Lock, tape, adhesives) and employee mentors, with regional community grants submitted through My 3Mgives.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: Dual Lock, tape & adhesive products; occasional regional cash grants",
+    "link": "https://www.3m.com/3M/en_US/people-community/",
+    "status": "rolling",
+    "details": "Regional cash grants go through 3M's My 3Mgives community engagement portal — submitting a request doesn't guarantee a response, since 3Mgives staff reviews inquiries against current giving priorities. Product donations are handled separately through team mentors.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "autodesk-fusion-360",
+    "name": "Autodesk Fusion 360 for FIRST",
+    "org": "Autodesk",
+    "type": "sponsorship",
+    "description": "Free educational access to Fusion 360 for all FIRST teams, plus the Synthesis robotics simulator Autodesk has sponsored since 2014.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: free Fusion 360 & Synthesis simulator access",
+    "link": "https://www.autodesk.com/education/competitions/first",
+    "status": "rolling",
+    "details": "Create an Autodesk Education Access account and verify your student/educator status — access is instant once verified, no separate sponsorship review. Renews yearly.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "ptc-onshape",
+    "name": "PTC Onshape for FIRST",
+    "org": "PTC (Onshape)",
+    "type": "sponsorship",
+    "description": "Free cloud-native Onshape CAD accounts for all FIRST students and educators, with additional cash sponsorships available to teams with a PTC mentor or customer co-sponsor.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: free Onshape CAD; cash sponsorship for teams with a PTC mentor",
+    "link": "https://www.onshape.com/en/education/first-robotics",
+    "status": "rolling",
+    "details": "Free Onshape education accounts are self-serve at onshape.com/edu — no waiting period. Cash sponsorships are a separate, more selective track that requires a PTC employee mentor or a PTC customer acting as co-sponsor.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "studica-team-discount",
+    "name": "Studica Robotics Team Discount",
+    "org": "Studica",
+    "type": "sponsorship",
+    "description": "Discount application for all FIRST teams on robotics kits and parts; subject to review, some exclusions apply.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "25% discount on robotics kits & parts",
+    "link": "https://www.studica.com/studica-robotics-team-discount",
+    "status": "rolling",
+    "details": "Submit the online discount application with your team number — approval isn't automatic, and some product lines are excluded from the 25% rate, so check the exclusions list on the application page.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "gobilda-education-discount",
+    "name": "goBILDA Educational Discount",
+    "org": "goBILDA",
+    "type": "sponsorship",
+    "description": "Submit the educational discount request form and goBILDA's team follows up by email with your team's discount code — there's no instant online form completion.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "25% FTC parts discount (confirmed by email)",
+    "link": "https://www.gobilda.com/education",
+    "status": "rolling",
+    "details": "There's no instant discount code at checkout — after submitting the form, goBILDA's team manually verifies your team/school status and emails your code, so apply a few days before you need to order.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "te-connectivity-request-funding",
+    "name": "TE Connectivity Request Funding",
+    "org": "TE Connectivity Foundation",
+    "type": "grant",
+    "description": "TE has sponsored FIRST teams for 20+ years with TE mentors; local site funding requests go through TE's community responsibility request-funding form.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; local TE site funding request",
+    "link": "https://www.te.com/en/about-te/corporate-responsibility/request-funding/first.html",
+    "status": "rolling",
+    "details": "Applicants must be a registered nonprofit, charitable organization, or educational institution able to provide documentation. Funding is prioritized for communities where TE employees actually live and work — a nearby TE site or mentor strengthens your request.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "novelis-ball-first-grant",
+    "name": "Novelis & Ball FIRST Grant",
+    "org": "Novelis & Ball Corporation",
+    "type": "grant",
+    "description": "A select number of grants for FRC teams building a recycling-themed robot to champion STEM and sustainability in their communities.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; for a recycling-themed robot project",
+    "link": "https://novelis.com/the-novelis-and-ball-first-robotics-alliance/first-grant/",
+    "status": "rolling",
+    "details": "Your application needs a specific sustainability/recycling angle tied to your robot or team project — this isn't a general operating grant, and only a limited number are awarded each cycle.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "bechtel-team-sponsorship",
+    "name": "Bechtel FIRST Team Sponsorship",
+    "org": "Bechtel",
+    "type": "sponsorship",
+    "description": "Sponsors and mentors FRC teams near Bechtel offices and project sites across nine countries; no public per-team form — reach out through Bechtel's community engagement team.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; funding + employee mentorship",
+    "link": "https://www.bechtel.com/impact/investing-in-people-communities/",
+    "status": "rolling",
+    "details": "Bechtel Group Foundation reviews unsolicited proposals, but you'll need proof of 501(c)(3)/equivalent nonprofit status and be located near a Bechtel office or active project site — the foundation does not fund religious, entertainment, or narrow-interest groups.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "caterpillar-team-sponsorship",
+    "name": "Caterpillar FIRST Team Sponsorship",
+    "org": "Caterpillar Inc.",
+    "type": "sponsorship",
+    "description": "Sponsors over 200 FIRST teams worldwide, concentrated near Caterpillar sites; there's no standalone application — connect through your regional FIRST Program Delivery Partner or Caterpillar's community engagement team.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; funding + employee mentorship",
+    "link": "https://www.caterpillar.com/en/company/caterpillar-foundation/matching-gifts.html",
+    "status": "rolling",
+    "details": "The Caterpillar Foundation does not accept unsolicited proposals for its major grants — most FIRST team support flows through existing relationships near Caterpillar facilities. You'll need 501(c)(3) status, audited financials, and an IRS Form 990 if you do get invited to apply.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "gm-corporate-giving-grant",
+    "name": "General Motors Community Impact Grant",
+    "org": "General Motors",
+    "type": "grant",
+    "description": "General STEM-education community giving program (not FIRST-exclusive) that has funded FIRST robotics centers and teams, such as Kettering University's robotics program.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-09-30",
+    "opensOn": "2026-08-21",
+    "amount": "Varies (community impact grant, STEM-focused)",
+    "link": "https://www.gm.com/impact/corporate-giving",
+    "status": "open",
+    "details": "Start with GM's online Eligibility Quiz — you must be a US-based 501(c)(3) in good standing with the IRS. This cycle's window runs through September 30; allow up to eight weeks for review, and no Letter of Inquiry is accepted after the deadline.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "micron-stem-opportunity-fund",
+    "name": "Micron STEM Opportunity Fund",
+    "org": "Micron Technology Foundation",
+    "type": "grant",
+    "description": "Funds robotics, AI, and semiconductor-aligned STEM programs in Northern Virginia, administered through the Community Foundation for Northern Virginia; the current cycle's application window has closed.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "VA"
+    ],
+    "eligibility": "both",
+    "deadline": "2026-03-10",
+    "amount": "Varies",
+    "link": "https://www.cfnova.org/grants-and-scholarships/grants/micron-opportunity-fund",
+    "status": "closed",
+    "details": "Your program must incorporate an AI-related activity, tool, or lesson to qualify — a generic robotics build isn't enough on its own. Priority goes to programs in Boise, ID and Manassas, VA, where Micron has a major presence.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "intuitive-foundation-grant",
+    "name": "Intuitive Foundation FIRST Robotics Grant",
+    "org": "Intuitive Foundation",
+    "type": "grant",
+    "description": "Awards grants to hundreds of FIRST robotics teams worldwide each year (267 teams in 2024-25), open to teams in Australia, Canada, Israel, Mexico, Türkiye, the UK, and the US.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2026-08-15",
+    "opensOn": "2026-06-01",
+    "amount": "Varies (grants to ~267 teams/year)",
+    "link": "https://www.intuitive-foundation.org/first-robotics/",
+    "status": "closed",
+    "details": "The application portal typically opens in June and closes in August each year — this cycle's window has just closed. Funding is competitive: independent reviewers score every application, and top-scoring teams are funded first as the budget allows.",
+    "country": "Multiple (AU, CA, IL, MX, TR, UK, US)",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "actuonix-sponsorship",
+    "name": "Actuonix FIRST Robotics Sponsorship",
+    "org": "Actuonix Motion Devices",
+    "type": "sponsorship",
+    "description": "Product and cash sponsorship program for FIRST teams, offered up to four times a year; the current round is closed.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Product & cash sponsorship (recurring quarterly cycle)",
+    "link": "https://www.actuonix.com/first-robotics",
+    "status": "closed",
+    "details": "Runs on a recurring roughly-quarterly cycle rather than one annual deadline — if this round is closed, check back in a few months rather than waiting for next season.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "toyota-ftc-grants",
+    "name": "Toyota Drive Forward & Rookie Boost FTC Grants",
+    "org": "Toyota",
+    "type": "grant",
+    "description": "Regional Toyota-funded FTC grants for North Texas teams — Drive Forward for existing teams and Rookie Boost for new ones — administered alongside Toyota's broader FIRST robotics STEM giving.",
+    "programs": [
+      "FTC"
+    ],
+    "states": [
+      "TX"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (Drive Forward & Rookie Boost grants)",
+    "link": "https://pressroom.toyota.com/toyota-awards-60k-grants-five-first-robotics-organizations/",
+    "status": "rolling",
+    "details": "Rookie Boost is specifically for brand-new teams and Drive Forward for teams that already have a season under their belt — apply to the one matching your team's history, administered through the North Texas FIRST region rather than nationally.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "motorola-solutions-foundation-grant",
+    "name": "Motorola Solutions Foundation Grant",
+    "org": "Motorola Solutions Foundation",
+    "type": "grant",
+    "description": "A 20-year FIRST mentor and funder; the annual grants program is a two-stage process (strategic inquiry, then full application) spanning about seven months.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Up to $50,000",
+    "link": "https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation/annual-grants.html",
+    "status": "rolling",
+    "details": "Submit a strategic inquiry first — only organizations invited after that stage get to submit a full application. Budget for the long timeline: about seven months from inquiry to a funding decision, so this isn't a fit for urgent, this-season funding needs.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "ftc-sim-argosy-rookie",
+    "name": "FTC SIM Argosy Rookie Team Grant",
+    "org": "Argosy Foundation",
+    "type": "grant",
+    "description": "For rookie FTC teams in the US, Mexico, or Canada; cannot be re-granted to a team already receiving other hardship grants.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "rookie-only",
+    "deadline": "2025-10-31",
+    "amount": "$1,000",
+    "link": "https://firstroboticscanada.org/ftcsimgrant/",
+    "status": "closed",
+    "details": "Available to rookie teams in the US, Mexico, and Canada alike. If your team is already receiving another FIRST hardship grant this season, you're not eligible to also receive this one — check for overlap before applying.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "frc-sustainability-grant",
+    "name": "FIRST Robotics Competition Sustainability Grant",
+    "org": "FIRST",
+    "type": "grant",
+    "description": "One of FIRST HQ's own team grants, aimed at helping established veteran FRC teams sustain their programs.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "veteran-only",
+    "deadline": "rolling",
+    "amount": "Varies",
+    "link": "https://www.firstinspires.org/programs/team-grant-opportunities",
+    "status": "rolling",
+    "details": "This one is explicitly for teams that already have at least one season of competition history — rookie teams should look at the New Team Grant instead. Check FIRST's team grant hub each season, since it isn't always open.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "cafirst-team-grants",
+    "name": "California FIRST Team Grants",
+    "org": "FIRST Robotics - California",
+    "type": "grant",
+    "description": "Aggregates grant opportunities specific to California FLL, FTC, and FRC teams in one hub.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "CA"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (aggregates multiple CA-specific grants)",
+    "link": "https://cafirst.org/grants/",
+    "status": "rolling",
+    "details": "This is a directory page, not a single application — it lists several California-specific funders with their own deadlines and criteria, so check back regularly rather than treating it as a one-time apply-and-done resource.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "firstintexas-team-grants",
+    "name": "FIRST in Texas Team Grants",
+    "org": "FIRST in Texas",
+    "type": "grant",
+    "description": "State chapter grant hub distributing corporate and foundation funding to Texas FLL, FTC, and FRC teams.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "TX"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (aggregates multiple TX-specific grants)",
+    "link": "https://firstintexas.org/be-stem-advocate-support-mission-change-world/",
+    "status": "rolling",
+    "details": "Distributes roughly $700,000 a year to over 350 Texas teams — funding is prioritized by region and program type, with an eye toward teams (including those with students with disabilities) where the money will most expand participation.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "hightechkids-mn-funding",
+    "name": "High Tech Kids Minnesota Team Funding",
+    "org": "High Tech Kids",
+    "type": "grant",
+    "description": "Grants and scholarships for Minnesota FTC, FLL Challenge, and FLL Explore teams.",
+    "programs": [
+      "FLL",
+      "FTC"
+    ],
+    "states": [
+      "MN"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies",
+    "link": "https://hightechkids.org/team-funding/",
+    "status": "rolling",
+    "details": "Minnesota-only — this hub lists multiple funding sources including 3M-backed grants, each with its own criteria, so read each listing on the page rather than assuming one blanket application covers all of them.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "ftcpenn-team-grants",
+    "name": "Pennsylvania FIRST Tech Challenge Team Grants",
+    "org": "Pennsylvania FIRST Tech Challenge",
+    "type": "grant",
+    "description": "State chapter hub listing team grant opportunities available to Pennsylvania FTC teams each season.",
+    "programs": [
+      "FTC"
+    ],
+    "states": [
+      "PA"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies",
+    "link": "https://www.ftcpenn.org/team-grants",
+    "status": "rolling",
+    "details": "PA FTC teams have received grants tied to a $200,000 state-level commitment supporting Philadelphia-area teams specifically — check whether your team qualifies for the regional set-asides in addition to the general listings.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "mtra-montana-grants",
+    "name": "Montana Robotics Alliance Grants",
+    "org": "Montana Robotics Alliance",
+    "type": "grant",
+    "description": "Aggregates grant and funding resources for Montana FLL, FTC, and FRC teams.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "MT"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies",
+    "link": "https://www.mtroboticsalliance.org/resources/grants",
+    "status": "rolling",
+    "details": "A resource hub rather than a single grant — worth checking each season since Montana's small-state team count means individual listings can change year to year.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "firstindiana-team-grants",
+    "name": "FIRST Indiana Robotics Team Grants",
+    "org": "FIRST Indiana Robotics",
+    "type": "grant",
+    "description": "Includes the Indiana Department of Education Competitive Robotics Grant along with other state-specific team funding.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "IN"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies",
+    "link": "https://www.firstindianarobotics.org/team-grants/",
+    "status": "rolling",
+    "details": "The Indiana Department of Education Competitive Robotics Grant on this page has historically closed in September — treat that one as time-sensitive even though the hub itself is evergreen.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "kyfirstrobotics-team-grants",
+    "name": "KY FIRST Robotics Team Grants",
+    "org": "KY FIRST Robotics",
+    "type": "grant",
+    "description": "Lists Kentucky-specific funding including FJ Foundation grants for new and existing FRC teams, TVA grants for the TVA service region, and Toyota funding for Fayette and Scott county public schools.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "KY"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies",
+    "link": "https://www.kyfirstrobotics.org/team-grants",
+    "status": "rolling",
+    "details": "Three distinct funders live on this one page — FJ Foundation (new + existing FRC), TVA (only within the TVA service region), and Toyota (only Fayette/Scott county public schools). Confirm which one actually matches your team before applying.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "gafirst-google-ftc-grant",
+    "name": "GeorgiaFIRST Google FTC Team Support Grant",
+    "org": "GeorgiaFIRST Robotics (funded by Google)",
+    "type": "grant",
+    "description": "Helps under-resourced and traditionally underrepresented middle-school-age FTC teams, including former FLL teams transitioning up to FTC.",
+    "programs": [
+      "FTC"
+    ],
+    "states": [
+      "GA"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "$2,600 per transitioning FLL-to-FTC team",
+    "link": "https://gafirst.org/news-resources/2025-2026-georgiafirst-tech-challengenbsp-google-team-support-grant",
+    "status": "rolling",
+    "details": "Covers registration, electronics kit, build kit, driver kit, hand tools, and a partial field set — designed specifically for middle-school teams moving from FLL into FTC, so note that transition explicitly in your application.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "hawaii-boozallen-grant",
+    "name": "Hawai'i FIRST Robotics Booz Allen Hamilton Grant",
+    "org": "Hawai'i FIRST Robotics (funded by Booz Allen Hamilton)",
+    "type": "grant",
+    "description": "Team grant plus a Booz Allen employee mentor; the cycle has historically closed in mid-February, so this date is estimated for the next cycle — confirm on hawaiifirstrobotics.org.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "HI"
+    ],
+    "eligibility": "both",
+    "deadline": "2027-02-16",
+    "amount": "$2,500 + mentor (est.)",
+    "link": "https://hawaiifirstrobotics.org/2024/01/17/hi-first-robotics-booz-allen-hamilton-grant-feb-16-deadline/",
+    "status": "upcoming",
+    "details": "Comes paired with an actual Booz Allen employee mentor, not just cash — be ready to describe how your team would use ongoing engineering mentorship, not only the funding.",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "honda-canada-foundation-grant",
+    "name": "Honda Canada Foundation FIRST Robotics Grant",
+    "org": "Honda Canada Foundation",
+    "type": "grant",
+    "description": "Part of a three-year, $375,000 partnership with FIRST Robotics Canada, funding $2,000 per Canadian high-school FRC team.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "$2,000 CAD per team",
+    "link": "https://www.hondacanadafoundation.ca/en/apply-for-funding",
+    "status": "rolling",
+    "details": "The online application takes about 30–45 minutes — all funding requests are handled only through this form, so don't email the foundation directly. Open to Canadian high-school FRC teams provincially and at the national championship level.",
+    "country": "Canada",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "first-robotics-canada-hub",
+    "name": "FIRST Robotics Canada National Grants Hub",
+    "org": "FIRST Robotics Canada",
+    "type": "grant",
+    "description": "Aggregates national-level Canadian funding including the Lockheed Martin Canada National Gold partnership (over $100,000/season) alongside registration-fee grants.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (aggregates national CA grants)",
+    "link": "https://firstroboticscanada.org/frc/costs-and-grants/",
+    "status": "rolling",
+    "details": "For registration-fee grant inquiries specifically, the page directs teams to contact FIRST Robotics Canada's team support staff directly rather than filling out a public form — email is the actual application channel here.",
+    "country": "Canada",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "fll-uk-funding-packages",
+    "name": "FIRST LEGO League UK Funding Packages",
+    "org": "FIRST LEGO League UK (IET)",
+    "type": "grant",
+    "description": "Funding packages for UK educational institutions, home education groups, and youth groups across FLL Explore and FLL Challenge.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (covers Team Event Registration or Class Pack)",
+    "link": "https://education.theiet.org/first-lego-league-programmes/how-we-make-a-difference/funding-support/funding-packages",
+    "status": "rolling",
+    "details": "Decide upfront whether you're applying for a Team Event Registration (competing at an event) or a Class Pack (running the programme in-house for up to 30 students) — the funding packages differ. Reviewed on impact, the demographic reached, and plans for continuing beyond one season.",
+    "country": "United Kingdom",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "first-australia-support",
+    "name": "FIRST Australia Team Support",
+    "org": "FIRST Australia",
+    "type": "sponsorship",
+    "description": "Central page for one-off donations or ongoing sponsorship of Australian FIRST teams, covering registration, materials, travel, accommodation, and mentors.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (donation or ongoing sponsorship)",
+    "link": "https://www.firstaustralia.org/donate-sponsor",
+    "status": "rolling",
+    "details": "This page is framed more as 'how to give' than a team-facing application form — if you're a team looking for funding rather than a sponsor looking to give, contact FIRST Australia directly through the site to be connected with available support.",
+    "country": "Australia",
+    "verifiedOn": "2026-08-21"
+  },
+  {
+    "id": "ftc-india-sponsor-a-student",
+    "name": "FTC India Sponsor-a-Student Program",
+    "org": "FIRST Tech Challenge India",
+    "type": "sponsorship",
+    "description": "Sponsors a student's share of FTC India Championship registration fees, targeted at talented students from underprivileged backgrounds.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Rs. 8,999 (~US $101) per student",
+    "link": "https://ftcindia.org.in/sponsor-a-student/",
+    "status": "rolling",
+    "details": "This is a per-student sponsorship, not a team-wide grant — you nominate individual students from underprivileged backgrounds who show potential and passion, and each sponsorship covers that one student's championship registration share.",
+    "country": "India",
+    "verifiedOn": "2026-08-21"
+  }
+]
