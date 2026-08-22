@@ -52,7 +52,7 @@ function App() {
         <div className="header__brand">
           <span className="header__mark">GF</span>
           <div>
-            <h1 className="header__title">GrantFinder</h1>
+            <h1 className="header__title">FIRST Grant Finder</h1>
             <p className="header__tagline">Grants &amp; sponsorships for FLL / FTC / FRC teams</p>
           </div>
         </div>
