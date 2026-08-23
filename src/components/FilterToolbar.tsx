@@ -5,12 +5,27 @@ interface Props {
   filters: Filters;
   onChange: (patch: Partial<Filters>) => void;
   states: string[];
+  countries?: string[];
+  mode?: "state" | "country";
+  countryValue?: string;
+  onCountryChange?: (country: string) => void;
   resultCount: number;
   totalCount: number;
 }
 
-export function FilterToolbar({ filters, onChange, states, resultCount, totalCount }: Props) {
-  const isDefault = JSON.stringify(filters) === JSON.stringify(DEFAULT_FILTERS);
+export function FilterToolbar({
+  filters,
+  onChange,
+  states,
+  countries = [],
+  mode = "state",
+  countryValue = "all",
+  onCountryChange,
+  resultCount,
+  totalCount,
+}: Props) {
+  const isDefault =
+    JSON.stringify(filters) === JSON.stringify(DEFAULT_FILTERS) && (mode !== "country" || countryValue === "all");
 
   return (
     <div className="toolbar">
@@ -28,17 +43,31 @@ export function FilterToolbar({ filters, onChange, states, resultCount, totalCou
           </select>
         </label>
 
-        <label className="toolbar__field">
-          <span className="toolbar__label">State</span>
-          <select value={filters.state} onChange={(e) => onChange({ state: e.target.value })}>
-            <option value="all">All states</option>
-            {states.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
-        </label>
+        {mode === "country" ? (
+          <label className="toolbar__field">
+            <span className="toolbar__label">Country</span>
+            <select value={countryValue} onChange={(e) => onCountryChange?.(e.target.value)}>
+              <option value="all">All countries</option>
+              {countries.map((c) => (
+                <option key={c} value={c}>
+                  {c}
+                </option>
+              ))}
+            </select>
+          </label>
+        ) : (
+          <label className="toolbar__field">
+            <span className="toolbar__label">State</span>
+            <select value={filters.state} onChange={(e) => onChange({ state: e.target.value })}>
+              <option value="all">All states</option>
+              {states.map((s) => (
+                <option key={s} value={s}>
+                  {s}
+                </option>
+              ))}
+            </select>
+          </label>
+        )}
 
         <label className="toolbar__field">
           <span className="toolbar__label">Team status</span>
@@ -67,7 +96,14 @@ export function FilterToolbar({ filters, onChange, states, resultCount, totalCou
         </label>
 
         {!isDefault && (
-          <button type="button" className="toolbar__reset" onClick={() => onChange(DEFAULT_FILTERS)}>
+          <button
+            type="button"
+            className="toolbar__reset"
+            onClick={() => {
+              onChange(DEFAULT_FILTERS);
+              if (mode === "country") onCountryChange?.("all");
+            }}
+          >
             Reset
           </button>
         )}

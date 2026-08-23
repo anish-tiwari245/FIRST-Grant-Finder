@@ -5,8 +5,8 @@ import { FilterToolbar } from "./components/FilterToolbar";
 import { OpportunityCard } from "./components/OpportunityCard";
 import { SearchBar } from "./components/SearchBar";
 import { useBookmarks } from "./context/BookmarksContext";
-import { ALL_STATES, opportunities } from "./data";
-import { DEFAULT_FILTERS, matchesFilters, type Filters } from "./filters";
+import { ALL_COUNTRIES, ALL_STATES, opportunities } from "./data";
+import { DEFAULT_FILTERS, isInternational, matchesCountry, matchesFilters, type Filters } from "./filters";
 import { daysUntil, isClosingSoon } from "./utils/date";
 import type { OpportunityStatus } from "./types";
 
@@ -19,7 +19,8 @@ const STATUS_ORDER: Record<OpportunityStatus, number> = {
 
 function App() {
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
-  const [view, setView] = useState<"list" | "calendar" | "bookmarks">("list");
+  const [view, setView] = useState<"list" | "calendar" | "bookmarks" | "international">("list");
+  const [countryFilter, setCountryFilter] = useState("all");
   const { bookmarkedIds } = useBookmarks();
 
   const filtered = useMemo(() => {
@@ -40,6 +41,27 @@ function App() {
     () => filtered.filter((o) => bookmarkedIds.has(o.id)),
     [filtered, bookmarkedIds]
   );
+
+  const internationalOpportunities = useMemo(
+    () => opportunities.filter((o) => isInternational(o)),
+    []
+  );
+
+  const internationalFiltered = useMemo(() => {
+    const matches = internationalOpportunities.filter(
+      (o) => matchesFilters(o, filters) && matchesCountry(o, countryFilter)
+    );
+    return [...matches].sort((a, b) => {
+      const statusDiff = STATUS_ORDER[a.status] - STATUS_ORDER[b.status];
+      if (statusDiff !== 0) return statusDiff;
+      const aDays = daysUntil(a.deadline);
+      const bDays = daysUntil(b.deadline);
+      if (aDays === null && bDays === null) return 0;
+      if (aDays === null) return 1;
+      if (bDays === null) return -1;
+      return aDays - bDays;
+    });
+  }, [internationalOpportunities, filters, countryFilter]);
 
   const closingSoonCount = useMemo(
     () => opportunities.filter((o) => isClosingSoon(o.deadline)).length,
@@ -97,6 +119,15 @@ function App() {
           Bookmarks
           {bookmarkedIds.size > 0 && <span className="tabs__count">{bookmarkedIds.size}</span>}
         </button>
+        <button
+          type="button"
+          role="tab"
+          aria-selected={view === "international"}
+          className={`tabs__tab${view === "international" ? " tabs__tab--active" : ""}`}
+          onClick={() => setView("international")}
+        >
+          International
+        </button>
       </div>
 
       <SearchBar
@@ -108,12 +139,53 @@ function App() {
         filters={filters}
         onChange={(patch) => setFilters((f) => ({ ...f, ...patch }))}
         states={ALL_STATES}
-        resultCount={view === "bookmarks" ? bookmarkedFiltered.length : filtered.length}
-        totalCount={view === "bookmarks" ? bookmarkedIds.size : opportunities.length}
+        countries={ALL_COUNTRIES}
+        mode={view === "international" ? "country" : "state"}
+        countryValue={countryFilter}
+        onCountryChange={setCountryFilter}
+        resultCount={
+          view === "bookmarks"
+            ? bookmarkedFiltered.length
+            : view === "international"
+              ? internationalFiltered.length
+              : filtered.length
+        }
+        totalCount={
+          view === "bookmarks"
+            ? bookmarkedIds.size
+            : view === "international"
+              ? internationalOpportunities.length
+              : opportunities.length
+        }
       />
 
       {view === "calendar" ? (
         <CalendarView opportunities={filtered} />
+      ) : view === "international" ? (
+        internationalOpportunities.length === 0 ? (
+          <div className="empty">
+            <p>No international opportunities tracked yet.</p>
+          </div>
+        ) : internationalFiltered.length === 0 ? (
+          <div className="empty">
+            <p>No international opportunities match those filters.</p>
+            <button
+              type="button"
+              onClick={() => {
+                setFilters(DEFAULT_FILTERS);
+                setCountryFilter("all");
+              }}
+            >
+              Clear filters
+            </button>
+          </div>
+        ) : (
+          <div className="grid">
+            {internationalFiltered.map((o) => (
+              <OpportunityCard key={o.id} opportunity={o} />
+            ))}
+          </div>
+        )
       ) : view === "bookmarks" ? (
         bookmarkedIds.size === 0 ? (
           <div className="empty">

@@ -15,13 +15,21 @@ export function OpportunityCard({ opportunity }: { opportunity: Opportunity }) {
   const rolling = opportunity.deadline === "rolling";
   const verifiedDaysAgo = daysAgo(opportunity.verifiedOn);
   const stale = verifiedDaysAgo > STALE_AFTER_DAYS;
-  const states =
-    opportunity.states === "all"
+  const states = opportunity.countries?.length
+    ? opportunity.countries.join(", ")
+    : opportunity.country
       ? opportunity.country
-        ? opportunity.country
-        : "All states"
-      : opportunity.states.join(", ");
-  const statesLabel = opportunity.country ? "Country" : "Eligible states";
+      : opportunity.international
+        ? "Any country (global sponsor)"
+        : opportunity.states === "all"
+          ? "All states"
+          : opportunity.states.join(", ");
+  const statesLabel =
+    opportunity.country || opportunity.countries?.length
+      ? "Country"
+      : opportunity.international
+        ? "Availability"
+        : "Eligible states";
 
   return (
     <article

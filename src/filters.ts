@@ -19,6 +19,17 @@ export const DEFAULT_FILTERS: Filters = {
   deadlineRange: "all",
 };
 
+/** True for opportunities that belong in the International tab: country-specific entries, multi-country entries, or global/location-agnostic sponsors. */
+export function isInternational(o: Opportunity): boolean {
+  return Boolean(o.country || (o.countries && o.countries.length > 0) || o.international);
+}
+
+/** True when `o` matches the given country filter (used only in the International tab). Global sponsors match any country. */
+export function matchesCountry(o: Opportunity, country: string): boolean {
+  if (country === "all") return true;
+  return o.country === country || Boolean(o.countries?.includes(country)) || o.international === true;
+}
+
 export function matchesFilters(o: Opportunity, f: Filters): boolean {
   const query = f.search.trim().toLowerCase();
   if (query) {

@@ -26,6 +26,10 @@ export interface Opportunity {
   details?: string;
   /** Set for opportunities outside the US where the "states" field doesn't apply */
   country?: string;
+  /** For opportunities valid across several named countries (used for country filtering); `country` still holds the display text */
+  countries?: string[];
+  /** True for global/location-agnostic sponsors (in-kind product or software support) not tied to one country */
+  international?: boolean;
   /** ISO date string (YYYY-MM-DD) — when this entry's details/link were last checked against the real source */
   verifiedOn: string;
 }
