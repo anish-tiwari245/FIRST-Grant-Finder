@@ -86,11 +86,11 @@
     "eligibility": "both",
     "deadline": "2025-11-15",
     "amount": "$2,000",
-    "link": "https://www.frcturkiye.org/2026hibebasvuru",
+    "link": "https://www.fikretyukselfoundation.org/en/2025-season-first-age/",
     "status": "closed",
-    "details": "Application (via Google Form, in Turkish) requires a written business plan, a gender-equality action plan, and documentation of how the team engages its alumni network — this is more paperwork-heavy than most US grants.",
+    "details": "Application (via Google Form, in Turkish) requires a written business plan, a gender-equality action plan, and documentation of how the team engages its alumni network — this is more paperwork-heavy than most US grants. Note: the previous frcturkiye.org application-specific link stopped working — this links to the Fikret Yüksel Foundation's own season page describing the grant instead.",
     "country": "Türkiye",
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-26"
   },
   {
     "id": "arconic-foundation-grant",
@@ -475,10 +475,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "roboRIO & LabVIEW included in kit of parts; supplemental grants by request",
-    "link": "https://firstintexas.org/partner/national-instruments/",
+    "link": "https://www.linkedin.com/company/firstintexas",
     "status": "rolling",
-    "details": "Every FRC team already gets the roboRIO and LabVIEW automatically — no request needed for that part. Supplemental grants beyond the standard kit are handled informally and concentrated around NI's Austin, TX headquarters community.",
-    "verifiedOn": "2026-08-21"
+    "details": "Every FRC team already gets the roboRIO and LabVIEW automatically — no request needed for that part. Supplemental grants beyond the standard kit are handled informally and concentrated around NI's Austin, TX headquarters community. Note: firstintexas.org has been unreachable (DNS down) as of this check — linking to FIRST in Texas's official LinkedIn page instead until the main site is back up.",
+    "verifiedOn": "2026-08-26"
   },
   {
     "id": "3m-product-sponsorship",
@@ -803,10 +803,10 @@
     "eligibility": "rookie-only",
     "deadline": "2025-10-31",
     "amount": "$1,000",
-    "link": "https://firstroboticscanada.org/ftcsimgrant/",
+    "link": "https://www.firstinspires.org/programs/team-grant-opportunities",
     "status": "closed",
-    "details": "Available to rookie teams in the US, Mexico, and Canada alike. If your team is already receiving another FIRST hardship grant this season, you're not eligible to also receive this one — check for overlap before applying.",
-    "verifiedOn": "2026-08-21"
+    "details": "Available to rookie teams in the US, Mexico, and Canada alike. If your team is already receiving another FIRST hardship grant this season, you're not eligible to also receive this one — check for overlap before applying. Note: the original firstroboticscanada.org/ftcsimgrant/ link no longer resolves — this now points to FIRST's official Team Grant Opportunities hub, which lists the Argosy Foundation grant alongside other current options.",
+    "verifiedOn": "2026-08-26"
   },
   {
     "id": "frc-sustainability-grant",
@@ -865,10 +865,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies (aggregates multiple TX-specific grants)",
-    "link": "https://firstintexas.org/grants/grant-cycle/",
+    "link": "https://www.linkedin.com/company/firstintexas",
     "status": "rolling",
-    "details": "Distributes roughly $700,000 a year to over 350 Texas teams — funding is prioritized by region and program type, with an eye toward teams (including those with students with disabilities) where the money will most expand participation.",
-    "verifiedOn": "2026-08-21"
+    "details": "Distributes roughly $700,000 a year to over 350 Texas teams — funding is prioritized by region and program type, with an eye toward teams (including those with students with disabilities) where the money will most expand participation. Note: firstintexas.org has been unreachable (DNS down) as of this check — linking to FIRST in Texas's official LinkedIn page instead, which confirms the organization and grant program; check firstintexas.org directly once it is back online for the actual application form.",
+    "verifiedOn": "2026-08-26"
   },
   {
     "id": "hightechkids-mn-funding",
@@ -1130,11 +1130,11 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies (regional subsidies & corporate sponsors, e.g. past 1,500€ Pays de la Loire Region and 2,000€ Haas Foundation grants)",
-    "link": "https://www.robotiquefirstfrance.org/",
+    "link": "https://www.instagram.com/first_france_off/",
     "status": "rolling",
-    "details": "There's no single national grant to apply for — regional mentors help teams build a funding plan, recruit local companies as sponsors, and pursue subsidies from regional authorities. Past examples include a 1,500€ grant from the Pays de la Loire Region and a 2,000€ Haas Foundation subsidy for four teams. Note: this national site has occasionally returned server errors to automated checks — if the page doesn't load, try again shortly or search \"Robotique FIRST France\" directly.",
+    "details": "There's no single national grant to apply for — regional mentors help teams build a funding plan, recruit local companies as sponsors, and pursue subsidies from regional authorities. Past examples include a 1,500€ grant from the Pays de la Loire Region and a 2,000€ Haas Foundation subsidy for four teams. Their main site (robotiquefirstfrance.org) has been unreliable to load directly, so this links to their official Instagram page instead — message them there for current funding contacts.",
     "country": "France",
-    "verifiedOn": "2026-08-23"
+    "verifiedOn": "2026-08-26"
   },
   {
     "id": "brd-ftc-romania",
@@ -1326,11 +1326,11 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Event-level sponsorship (regional/national tournament registration stays free)",
-    "link": "https://www.portaldaindustria.com.br/sesi/canais/torneio-de-robotica/",
+    "link": "https://www.sesi.portaldaindustria.com.br/para-voce/robotica",
     "status": "rolling",
     "details": "This is tournament-level sponsorship through SESI (Brazil's official FTC/FLL operator), not a per-team funding form — free regional tournament slots are limited, so register with SESI as soon as registration opens for your region.",
     "country": "Brazil",
-    "verifiedOn": "2026-08-23"
+    "verifiedOn": "2026-08-26"
   },
   {
     "id": "michigan-99h-robotics-grant",
@@ -1371,9 +1371,9 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Up to $6,000 per team (prorated if total requests exceed the statewide pool)",
-    "link": "https://www.firstwisconsinrobotics.org/grants-funding-and-scholarships/wi-grants",
+    "link": "https://dpi.wi.gov/steam/grants/robotic-league",
     "status": "rolling",
-    "details": "Requires matching funds equal to the grant request secured before you apply, and covers students in grades 6-12 (public, charter, private, or home-based). After competing, teams submit form PI-2774 with itemized receipts showing both grant and matching-fund spending. Grant period runs July 1 through June 30 each year.",
+    "details": "Requires matching funds equal to the grant request secured before you apply, and covers students in grades 6-12 (public, charter, private, or home-based). After competing, teams submit form PI-2774 with itemized receipts showing both grant and matching-fund spending. Grant period runs July 1 through June 30 each year. Note: firstwisconsinrobotics.org appears to be down; this links directly to the Wisconsin DPI page administering the grant instead.",
     "verifiedOn": "2026-08-26"
   },
   {
