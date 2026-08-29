@@ -8,11 +8,18 @@
   --text-dim: #9aa2ab;
   --text-faint: #656b73;
 
+  /* Opportunity type: orange = Grant, gold = Sponsorship (tag, stripe, apply button) */
   --grant: #ff5a1f;
   --grant-dim: #4a2a19;
   --sponsor: #ffc23c;
   --sponsor-dim: #4a3c17;
+
+  /* Deadline status: open = orange, rolling = gold, upcoming = blue, closed = grey */
   --urgent: #ff2d55;
+  --open: #3ddc84;
+  --open-dim: rgba(61, 220, 132, 0.15);
+  --upcoming: #6ea8ff;
+  --caution: #d19a3d;
 
   --font-head: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
   --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;

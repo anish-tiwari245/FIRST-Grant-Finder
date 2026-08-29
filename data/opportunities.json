@@ -88,9 +88,9 @@
     "amount": "$2,000",
     "link": "https://www.fikretyukselfoundation.org/en/2025-season-first-age/",
     "status": "closed",
-    "details": "Application (via Google Form, in Turkish) requires a written business plan, a gender-equality action plan, and documentation of how the team engages its alumni network — this is more paperwork-heavy than most US grants. Note: the previous frcturkiye.org application-specific link stopped working — this links to the Fikret Yüksel Foundation's own season page describing the grant instead.",
+    "details": "Application (via Google Form, in Turkish) requires a written business plan, a gender-equality action plan, and documentation of how the team engages its alumni network — this is more paperwork-heavy than most US grants. There's no stable public link to the Google Form itself since it's reissued each season — email hibe@fikretyukselfoundation.org or check the foundation's season page (linked here) for the current year's form.",
     "country": "Türkiye",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "arconic-foundation-grant",
@@ -216,10 +216,10 @@
     "eligibility": "rookie-only",
     "deadline": "2026-09-30",
     "amount": "Covers first regional/district registration",
-    "link": "https://robotics.nasa.gov/2025-2026-frc-sponsorship-grants/",
+    "link": "https://frc-grants.arc.nasa.gov/rap-portal/",
     "status": "upcoming",
     "details": "US teams only — NASA cannot sponsor international teams. Registering for the application site does not register your team with FIRST; you'll need a FIRST team number first, and the portal times out after 120 minutes of inactivity, so save often.",
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "molex-sponsorship",
@@ -400,8 +400,8 @@
     "amount": "Varies; community-level grant",
     "link": "https://www.firstinspires.org/programs/team-grant-opportunities",
     "status": "rolling",
-    "details": "Targeted at community organizations (not individual teams applying solo) working to reach underserved or underrepresented youth — a clear equity/access narrative in your application matters as much as your budget request.",
-    "verifiedOn": "2026-08-21"
+    "details": "Targeted at community organizations (not individual teams applying solo) working to reach underserved or underrepresented youth — a clear equity/access narrative in your application matters as much as your budget request. Grants have historically ranged $5,000-$50,000. FIRST doesn't currently publish a standalone application page for this specific grant that we could verify live — look for \"STEM Equity Community Innovation Grant\" specifically on the Team Grant Opportunities hub linked here, or email community@firstinspires.org to ask about the current cycle.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "wcp-frc-sponsorship",
@@ -497,9 +497,9 @@
     "amount": "In-kind: Dual Lock, tape & adhesive products; occasional regional cash grants",
     "link": "https://www.3m.com/3M/en_US/people-community/",
     "status": "rolling",
-    "details": "Regional cash grants go through 3M's My 3Mgives community engagement portal — submitting a request doesn't guarantee a response, since 3Mgives staff reviews inquiries against current giving priorities. Product donations are handled separately through team mentors.",
+    "details": "3M's My 3Mgives community engagement portal is invitation-only for grant funding — 3M's own materials state \"3M is an invitation-only funder,\" so there is no public application form to submit. Product donations are handled separately through team mentors. For community engagement inquiries, contact 3Mgives@mmm.com, though a response isn't guaranteed.",
     "international": true,
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "autodesk-fusion-360",
@@ -535,11 +535,11 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "In-kind: free Onshape CAD; cash sponsorship for teams with a PTC mentor",
-    "link": "https://www.onshape.com/en/education/first-robotics",
+    "link": "https://www.onshape.com/en/education/sign-up",
     "status": "rolling",
     "details": "Free Onshape education accounts are self-serve at onshape.com/edu — no waiting period. Cash sponsorships are a separate, more selective track that requires a PTC employee mentor or a PTC customer acting as co-sponsor.",
     "international": true,
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "studica-team-discount",
@@ -633,9 +633,9 @@
     "amount": "Varies; funding + employee mentorship",
     "link": "https://www.bechtel.com/impact/investing-in-people-communities/",
     "status": "rolling",
-    "details": "Bechtel Group Foundation reviews unsolicited proposals, but you'll need proof of 501(c)(3)/equivalent nonprofit status and be located near a Bechtel office or active project site — the foundation does not fund religious, entertainment, or narrow-interest groups.",
+    "details": "Bechtel Group Foundation accepts unsolicited written proposals rather than an online form — you'll need proof of 501(c)(3)/equivalent nonprofit status and to be located near a Bechtel office or active project site. Submit a written proposal by mail or contact the foundation directly (602-368-0234) rather than through an online application; the foundation does not fund religious, entertainment, or narrow-interest groups.",
     "international": true,
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "caterpillar-team-sponsorship",
@@ -694,10 +694,10 @@
     "eligibility": "both",
     "deadline": "2026-03-10",
     "amount": "Varies",
-    "link": "https://www.cfnova.org/grants-and-scholarships/grants/micron-opportunity-fund",
+    "link": "https://www.grantinterface.com/Home/Logon?urlkey=cfnv",
     "status": "closed",
     "details": "Your program must incorporate an AI-related activity, tool, or lesson to qualify — a generic robotics build isn't enough on its own. Priority goes to programs in Boise, ID and Manassas, VA, where Micron has a major presence.",
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "intuitive-foundation-grant",
@@ -714,7 +714,7 @@
     "deadline": "2026-08-15",
     "opensOn": "2026-06-01",
     "amount": "Varies (grants to ~267 teams/year)",
-    "link": "https://www.intuitive-foundation.org/first-robotics/",
+    "link": "https://intuitive.smartsimple.com/welcome/Intuitivefoundation",
     "status": "closed",
     "details": "The application portal typically opens in June and closes in August each year — this cycle's window has just closed. Funding is competitive: independent reviewers score every application, and top-scoring teams are funded first as the budget allows.",
     "country": "Multiple (AU, CA, IL, MX, TR, UK, US)",
@@ -727,7 +727,7 @@
       "United Kingdom",
       "United States"
     ],
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "actuonix-sponsorship",
@@ -745,9 +745,9 @@
     "amount": "Product & cash sponsorship (recurring quarterly cycle)",
     "link": "https://www.actuonix.com/first-robotics",
     "status": "closed",
-    "details": "Runs on a recurring roughly-quarterly cycle rather than one annual deadline — if this round is closed, check back in a few months rather than waiting for next season.",
+    "details": "There's no online application form — teams email a complete application and cover letter (as a separate PDF, not in the email body) to marketing@actuonix.com. Actuonix funds five FIRST team sponsorships per year on a recurring roughly-quarterly cycle rather than one annual deadline — if this round is closed, check back in a few months rather than waiting for next season.",
     "international": true,
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "toyota-ftc-grants",
@@ -786,9 +786,9 @@
     "amount": "Up to $50,000",
     "link": "https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation/annual-grants.html",
     "status": "rolling",
-    "details": "Submit a strategic inquiry first — only organizations invited after that stage get to submit a full application. Budget for the long timeline: about seven months from inquiry to a funding decision, so this isn't a fit for urgent, this-season funding needs.",
+    "details": "Submit a strategic inquiry first — only organizations invited after that stage get to submit a full application. As of this check, the 2026 cycle is closed (awards announced in August) and the 2027 cycle kicks off in late November — during closed periods, the page only offers a mailing-list signup (no live inquiry link), so check back when the next cycle opens rather than expecting a submittable form right now. Budget for the long timeline even once open: about seven months from inquiry to a funding decision, so this isn't a fit for urgent, this-season funding needs.",
     "international": true,
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "ftc-sim-argosy-rookie",
@@ -886,10 +886,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies",
-    "link": "https://hightechkids.org/team-funding/",
+    "link": "https://form.jotform.com/hightechkids/team-grants-common-application",
     "status": "rolling",
-    "details": "Minnesota-only — this hub lists multiple funding sources including 3M-backed grants, each with its own criteria, so read each listing on the page rather than assuming one blanket application covers all of them.",
-    "verifiedOn": "2026-08-21"
+    "details": "This is High Tech Kids' single common application form covering all Minnesota-specific grant requests. Separately, the same hub page (hightechkids.org/team-funding/) also lists national grants with their own applications — 3M-backed DonorsChoose projects, general FIRST grants via firstinspires.org/robotics/team-grants, and Gene Haas Foundation FTC grants at ghaasfoundation.org/apply-now — each with distinct eligibility, so check the hub page too if you don't qualify for the MN-specific pool.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "ftcpenn-team-grants",
@@ -906,10 +906,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies",
-    "link": "https://www.ftcpenn.org/team-grants",
+    "link": "https://forms.gle/g1oRYqA4LvbFT9jw5",
     "status": "rolling",
-    "details": "PA FTC teams have received grants tied to a $200,000 state-level commitment supporting Philadelphia-area teams specifically — check whether your team qualifies for the regional set-asides in addition to the general listings.",
-    "verifiedOn": "2026-08-21"
+    "details": "Currently the only live, funded grant on this hub is the Google.org Grant for PA FTC teams meeting specific composition criteria — this links directly to its Google Form (funds limited, first-come-first-served). PA FIRST Robotics says more grants will be added to the hub page (ftcpenn.org/team-grants) as they become available, so check there periodically for additional options beyond this one.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "mtra-montana-grants",
@@ -952,8 +952,8 @@
     "amount": "Varies",
     "link": "https://www.firstindianarobotics.org/team-grants/",
     "status": "rolling",
-    "details": "The Indiana Department of Education Competitive Robotics Grant on this page has historically closed in September — treat that one as time-sensitive even though the hub itself is evergreen.",
-    "verifiedOn": "2026-08-21"
+    "details": "The Indiana Department of Education's K-12 Robotics Competition Grant (this hub's headline grant) has no direct online application portal published — the DOE only posts a \"Grant Guidance\" PDF (via Google Drive) on its STEM Education page (in.gov/doe/students/stem-education/) explaining how to apply; there's no fillable web form to link to directly. Awards are tiered by team count (up to $50,000 for 6-12 teams, $75,000 for 13-18, $100,000 for 19+), require a 25% local match, and the grant has historically closed in September — treat it as time-sensitive even though this hub itself is evergreen. Read the current year's guidance PDF carefully before starting.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "kyfirstrobotics-team-grants",
@@ -974,8 +974,8 @@
     "amount": "Varies",
     "link": "https://www.kyfirstrobotics.org/team-grants",
     "status": "rolling",
-    "details": "Three distinct funders live on this one page — FJ Foundation (new + existing FRC), TVA (only within the TVA service region), and Toyota (only Fayette/Scott county public schools). Confirm which one actually matches your team before applying.",
-    "verifiedOn": "2026-08-21"
+    "details": "Three distinct funders live on this one page, each with its own direct \"APPLY NOW\" button: FJ Foundation (new + existing FRC) at https://forms.cloud.microsoft/r/JfPGcLrB6L, TVA Rookie Team Grants (TVA service region only) at https://forms.cloud.microsoft/r/ZuacpDcMAc, and the Toyota Team Grant (Fayette/Scott county public schools only) at https://forms.cloud.microsoft/r/TGyLNcpsCQ. Confirm which one actually matches your team, then use its specific form link directly.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "gafirst-google-ftc-grant",
@@ -992,10 +992,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "$2,600 per transitioning FLL-to-FTC team",
-    "link": "https://gafirst.org/news-resources/2025-2026-georgiafirst-tech-challengenbsp-google-team-support-grant",
+    "link": "https://forms.gle/BDyv2zZvqCCewVsL9",
     "status": "rolling",
     "details": "Covers registration, electronics kit, build kit, driver kit, hand tools, and a partial field set — designed specifically for middle-school teams moving from FLL into FTC, so note that transition explicitly in your application.",
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "hawaii-boozallen-grant",
@@ -1013,10 +1013,10 @@
     "eligibility": "both",
     "deadline": "2027-02-16",
     "amount": "$2,500 + mentor (est.)",
-    "link": "https://hawaiifirstrobotics.org/2024/01/17/hi-first-robotics-booz-allen-hamilton-grant-feb-16-deadline/",
+    "link": "https://hawaiifirstrobotics.org/wp-content/uploads/2024/01/2024_BAH_Grant_App.pdf",
     "status": "upcoming",
     "details": "Comes paired with an actual Booz Allen employee mentor, not just cash — be ready to describe how your team would use ongoing engineering mentorship, not only the funding.",
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "honda-canada-foundation-grant",
@@ -1069,11 +1069,11 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies (covers Team Event Registration or Class Pack)",
-    "link": "https://education.theiet.org/first-lego-league-programmes/how-we-make-a-difference/funding-support/funding-packages",
+    "link": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ugf4Nzmq40OAGKvdtvd4HNEbUS5xf1lPmUkmlg3dFLhUQThYMTFQNlZIRzZaTlEySTQ4TDdBOTJINCQlQCN0PWcu",
     "status": "rolling",
     "details": "Decide upfront whether you're applying for a Team Event Registration (competing at an event) or a Class Pack (running the programme in-house for up to 30 students) — the funding packages differ. Reviewed on impact, the demographic reached, and plans for continuing beyond one season.",
     "country": "United Kingdom",
-    "verifiedOn": "2026-08-21"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "first-australia-support",
@@ -1130,11 +1130,11 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies (regional subsidies & corporate sponsors, e.g. past 1,500€ Pays de la Loire Region and 2,000€ Haas Foundation grants)",
-    "link": "https://www.instagram.com/first_france_off/",
+    "link": "https://sti.eduscol.education.fr/actualites/defis-robotique-first-france",
     "status": "rolling",
-    "details": "There's no single national grant to apply for — regional mentors help teams build a funding plan, recruit local companies as sponsors, and pursue subsidies from regional authorities. Past examples include a 1,500€ grant from the Pays de la Loire Region and a 2,000€ Haas Foundation subsidy for four teams. Their main site (robotiquefirstfrance.org) has been unreliable to load directly, so this links to their official Instagram page instead — message them there for current funding contacts.",
+    "details": "There's no single national grant to apply for — regional mentors help teams build a funding plan, recruit local companies as sponsors, and pursue subsidies from regional authorities. Past examples include a 1,500€ grant from the Pays de la Loire Region and a 2,000€ Haas Foundation subsidy for four teams. Their own site (robotiquefirstfrance.org) has been persistently unreachable, so this links to the French Ministry of Education's Éduscol page describing the program instead, which links onward to Robotique FIRST France.",
     "country": "France",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-27"
   },
   {
     "id": "brd-ftc-romania",
@@ -1306,11 +1306,11 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies (equipment bursaries & travel awards)",
-    "link": "https://firstuk.org/financial-support/",
+    "link": "https://firstuk.org/register-a-team/",
     "status": "rolling",
     "details": "Aimed at teams who would benefit most from support accessing robotics-based, industry-linked skills development — check the financial support page directly for the current application window and criteria.",
     "country": "United Kingdom",
-    "verifiedOn": "2026-08-23"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "equinor-sesi-brazil-sponsorship",
@@ -1371,10 +1371,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Up to $6,000 per team (prorated if total requests exceed the statewide pool)",
-    "link": "https://dpi.wi.gov/steam/grants/robotic-league",
+    "link": "https://survey.alchemer.com/s3/8773657/PI-2773-Robotics-League-Participation-Grant-Application",
     "status": "rolling",
     "details": "Requires matching funds equal to the grant request secured before you apply, and covers students in grades 6-12 (public, charter, private, or home-based). After competing, teams submit form PI-2774 with itemized receipts showing both grant and matching-fund spending. Grant period runs July 1 through June 30 each year. Note: firstwisconsinrobotics.org appears to be down; this links directly to the Wisconsin DPI page administering the grant instead.",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "washington-ospi-first-grant",
@@ -1395,8 +1395,8 @@
     "amount": "Varies by need (statewide pool has fluctuated with the state budget)",
     "link": "https://firstwa.org/ospi/",
     "status": "rolling",
-    "details": "Register your team with FIRST and get a team number before applying. Funding is state-budget-dependent — Washington's 2025 budget shortfall put continued funding in question, so confirm current-year availability on the FIRST Washington OSPI page before counting on it.",
-    "verifiedOn": "2026-08-26"
+    "details": "There is no separate OSPI grant application form — FIRST Washington confirms grant interest is expressed by checking a box during your team's regular FIRST Washington registration (which asks how much OSPI funding, if any, your team received the prior year). Register your team with FIRST and get a team number first. Funding is state-budget-dependent — Washington's 2025 budget shortfall put continued funding in question, so confirm current-year availability on the FIRST Washington OSPI page before counting on it.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "colorado-first-hardship-grant",
@@ -1415,8 +1415,8 @@
     "amount": "Varies by demonstrated need",
     "link": "https://coloradofirst.org/frc/",
     "status": "upcoming",
-    "details": "This is a hardship-based grant, not general operating support — be ready to describe your team's specific financial need. Applications are due before September 1 each year for the following season.",
-    "verifiedOn": "2026-08-26"
+    "details": "This is a hardship-based grant, not general operating support — be ready to describe your team's specific financial need. Applications are due before September 1 each year for the following season. The page itself blocks automated access (returns 403 to fetch tools), so the exact application form URL could not be independently re-verified this round — visit coloradofirst.org/frc/ directly in a browser and look for the current season's Grants/hardship-grant application link or announcement.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "maryland-msde-robotics-grant",
@@ -1437,8 +1437,8 @@
     "amount": "$5,000 - $15,000 (about 35 awards per cycle)",
     "link": "https://marylandpublicschools.org/about/pages/ofpos/gac/mdroboticsfy27/index.aspx",
     "status": "rolling",
-    "details": "Applicants must be a Local Education Agency (LEA) or a nonprofit partnered with a Maryland public K-12 school — individual teams cannot apply directly and should apply through their school or district. Check the MSDE grants page each year for the current FY cycle's open window.",
-    "verifiedOn": "2026-08-26"
+    "details": "Applicants must be a Local Education Agency (LEA) or a nonprofit partnered with a Maryland public K-12 school — individual teams cannot apply directly and should apply through their school or district. This program page links to the current year's Grant Information Guide (GIG) PDF, which contains the actual eGrants application instructions and submission portal details — download and follow that GIG document rather than expecting a form directly on this page. Check the MSDE grants page each year for the current FY cycle's open window.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "kc-stem-alliance-targeted-grant",
@@ -1457,10 +1457,10 @@
     "eligibility": "both",
     "deadline": "2026-09-21",
     "amount": "Varies (past FTC grants averaged $728, ranging $200-$1,000); amount set by review board and funds available",
-    "link": "https://www.kcstem.org/what-we-do/targeted-grant-making/",
+    "link": "https://umkc.co1.qualtrics.com/jfe/form/SV_3l0jHD5JSfhPxLE",
     "status": "upcoming",
     "details": "Only open to schools/nonprofits in the specific KC-metro counties listed, serving low-income students (at least 21% free/reduced lunch eligible) or underserved groups. FTC applications close Sept 18, FRC applications close Sept 21. Contact bkelley@kcstem.org for application issues; winners are notified within 3 weeks.",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "ortop-oregon-team-support",
@@ -1479,10 +1479,10 @@
     "eligibility": "both",
     "deadline": "rolling",
     "amount": "Varies by need",
-    "link": "https://ortop.org/for-teams/team-support/",
+    "link": "https://www.tfaforms.com/4998093",
     "status": "rolling",
     "details": "Schools and nonprofit organizations (not individual students) apply for a team support award. ORTOP supports up to 650 teams and 7,500 students a year across Oregon; applications for the current season open on the team support page.",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "aep-foundation-robotics-grant",
@@ -1534,10 +1534,10 @@
     "eligibility": "both",
     "deadline": "2027-03-15",
     "amount": "Typically $2,000 - $5,000 (small capital grants capped at $5,000)",
-    "link": "https://www.rockymountainpower.net/community/foundation.html",
+    "link": "https://pacificorpfoundation.fluxx.io/",
     "status": "upcoming",
     "details": "Apply through Rocky Mountain Power Foundation's online grant portal under the Education/STEM funding cycle, which closes March 15 each year. Only teams within Rocky Mountain Power's Utah/Wyoming/southeastern-Idaho service territory are eligible.",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "first-mid-atlantic-hub",
@@ -1576,9 +1576,9 @@
     "amount": "Covers robot kits, competition organization & travel; students only pay a 250 euro team registration fee",
     "link": "https://fondation.edf.com/chez-robotique-first-france-nous-proposons-aux-collegiens-et-aux-lyceens-un-programme-innovant-de-mentorat-en-robotique",
     "status": "rolling",
-    "details": "Open to students aged 11-18 regardless of academic record — schools just need to provide a workspace for building. EDF covers the kit, event organization, and travel costs, and EDF employees can get involved as mentors through the foundation's skills-sponsorship program. Contact Robotique FIRST France to be connected with an EDF-backed team slot.",
+    "details": "Open to students aged 11-18 regardless of academic record — schools just need to provide a workspace for building. EDF covers the kit, event organization, and travel costs, and EDF employees can get involved as mentors through the foundation's skills-sponsorship program. There is no public online application form — the EDF Foundation page links to a general \"submit a project\" portal for its broader grant program, not one specific to Robotique FIRST France. Contact Robotique FIRST France directly to be connected with an EDF-backed team slot.",
     "country": "France",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "otis-future-minds-poland-fll",
@@ -1631,11 +1631,11 @@
     "eligibility": "rookie-only",
     "deadline": "rolling",
     "amount": "Full starter kit (Discover/Explore/Challenge level) + mini-grant for transport, materials & branding",
-    "link": "https://futureminds.edu.pl/2025/04/09/nowy-program-stypendialny-first-lego-league-dostepna-dla-kolejnych-spolecznosci-dzieki-changex-i-microsoft/",
-    "status": "rolling",
-    "details": "No prior robotics experience or institutional backing required — just a group of children and a motivated adult leader, especially encouraged from smaller towns and resource-limited schools. Awarded first-come, first-served until each round's funding is used up, so apply as soon as a new round opens.",
+    "link": "https://www.changex.org/pl/first-lego-league-challenge-pl",
+    "status": "closed",
+    "details": "No prior robotics experience or institutional backing required — just a group of children and a motivated adult leader, especially encouraged from smaller towns and resource-limited schools. Awarded first-come, first-served until each round's funding is used up, so apply as soon as a new round opens. As of this check, the ChangeX application page shows no funding currently available for Poland (\"Obecnie nie ma dostępnego finansowania dla tego pomysłu w Polska\") — this is the real, correct application page, just between funding rounds. Check back periodically for when a new round opens.",
     "country": "Poland",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "fll-spain-becas",
@@ -1766,10 +1766,10 @@
     "eligibility": "both",
     "deadline": "2026-09-30",
     "amount": "Registration cost (one-time, hardship-based)",
-    "link": "https://www.firstinspires.org/programs/team-grant-opportunities",
+    "link": "https://www.firstinspires.org/find-local-support",
     "status": "upcoming",
-    "details": "This is distinct from the Rookie Grant — it's aimed at any team (rookie or veteran) demonstrating genuine financial hardship, not just new teams. Funds can only be applied toward FTC season registration, not general team expenses.",
-    "verifiedOn": "2026-08-26"
+    "details": "This is distinct from the Rookie Grant — it's aimed at any team (rookie or veteran) demonstrating genuine financial hardship, not just new teams. Funds can only be applied toward FTC season registration, not general team expenses. IMPORTANT: this grant is NOT a self-service application. Teams must be nominated by their local FIRST Program Delivery Partner (PDP) — nominations are submitted by the PDP every Sunday by 11:59pm ET, with awards announced weekly on Wednesdays. There is no public Submittable form to fill out directly; the link above helps you find and contact your PDP, who nominates your team on your behalf. Funding ranges $325 (season registration) to $1,585 (new rookie team with full kit).",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "frc-new-team-grant",
@@ -1786,8 +1786,8 @@
     "amount": "$4,000 first season + $2,000 the following season",
     "link": "https://www.firstinspires.org/resources/library/frc/new-team-criteria",
     "status": "rolling",
-    "details": "Register your team and get a team number before applying — do not pay your registration fee first, since the grant is meant to be applied directly at storefront checkout. Funds can be used for registration, event fees, or other FIRST Storefront purchases.",
-    "verifiedOn": "2026-08-26"
+    "details": "There is no separate application form for this grant — register your team and obtain a team number first (do not pay your registration fee before doing so). Once your team is confirmed eligible (new or new-veteran), the $4,000 first-season / $2,000 second-season grant is applied automatically as a credit at FIRST Storefront checkout. Confirm your eligibility criteria on the linked page before you check out.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "ftc-rookie-team-grant",
@@ -1954,9 +1954,9 @@
     "amount": "Varies (covers registration & program materials; assessed case-by-case)",
     "link": "https://fll.ie/pages/funding-packages",
     "status": "upcoming",
-    "details": "Assessment weighs social mobility, free-school-meal eligibility, special educational needs, English-language-learner status, DEIS school designation, and expected community impact. Successful applicants must complete agreements/consent forms, attend training, give ongoing feedback, and either run in-house events or attend designated tournaments. 2026-27 funding applications were listed as opening soon at time of writing — check the page for the current window (allow up to five weeks for a decision after the closing date).",
+    "details": "Assessment weighs social mobility, free-school-meal eligibility, special educational needs, English-language-learner status, DEIS school designation, and expected community impact. Successful applicants must complete agreements/consent forms, attend training, give ongoing feedback, and either run in-house events or attend designated tournaments. As of this check, the page shows applications CLOSED for the current cycle, with 2026-27 applications listed as \"opening soon\" but no live form or exact date posted yet — there is no application form to fill out right now. Check the linked page periodically for when the next round's form goes live (allow up to five weeks for a decision after the closing date once it does).",
     "country": "Ireland",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "first-south-africa-explore-grants",
@@ -2035,10 +2035,10 @@
     "eligibility": "rookie-only",
     "deadline": "rolling",
     "amount": "$2,000 - $15,000 per proposal",
-    "link": "https://www.education.nh.gov/news/grants-available-schools-create-robotics-teams",
+    "link": "https://www.education.nh.gov/who-we-are/division-of-learner-support/grant-funding-opportunities",
     "status": "rolling",
     "details": "Requires an established partnership with at least one sponsor and a plan to participate in at least one competitive event. Proposals are scored by independent peer reviewers; check the NH DOE STEM education office page for the current grant cycle's request-for-applications and deadline, since this runs on a periodic two-year cycle rather than a fixed annual date.",
-    "verifiedOn": "2026-08-26"
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "nevada-rural-robotics-partnership",
@@ -2079,8 +2079,8 @@
     "amount": "Varies (matching-funds model; separate hardship track for teams in genuine need)",
     "link": "https://www.firstillinoisrobotics.org/ftc/registration/grants/",
     "status": "rolling",
-    "details": "Chicago Public Schools teams use a separate version of the Matching Funds Grant application from the general Illinois application. The Hardship Grant is aimed at teams facing financial difficulty rather than requiring matching funds. FIRST Illinois Robotics also separately lists FLL Challenge grants for new and returning teams on a need basis.",
-    "verifiedOn": "2026-08-26"
+    "details": "Chicago Public Schools teams use a separate version of the Matching Funds Grant application from the general Illinois application. The Hardship Grant is aimed at teams facing financial difficulty rather than requiring matching funds. FIRST Illinois Robotics also separately lists FLL Challenge grants for new and returning teams on a need basis. Direct application forms: Matching Funds Grant (general) — https://forms.gle/3HpuswVAak3WvQqHA; Chicago Public Schools version — https://forms.gle/1PqjmNSTY95dfNDE9; Hardship Grant — https://forms.gle/4gnXp1pHq6GNaYvk7. All three are Google Forms confirmed linked directly from the page above.",
+    "verifiedOn": "2026-08-29"
   },
   {
     "id": "first-upper-midwest-equity-grants",
@@ -2164,5 +2164,677 @@
     "status": "rolling",
     "details": "The Tarrant County team grants aren't a public online application — reach out to Mouser's community outreach team directly if your high school team is in that area. The Championship registration sponsorship isn't a per-team funding source, but it's part of why FIRST can keep Championship costs down for all qualifying teams.",
     "verifiedOn": "2026-08-26"
+  },
+  {
+    "id": "robotique-first-quebec-hub",
+    "name": "Robotique FIRST Québec (Bombardier Foundation & BMO)",
+    "org": "Robotique FIRST Québec",
+    "type": "grant",
+    "description": "Quebec's provincial FIRST delivery partner, founded by the J. Armand Bombardier Foundation, BMO Financial Group, and Fusion Jeunesse; the Bombardier Foundation granted $50,000 for a 12-month mission funding cycle in June 2025.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (organizational funding; no public per-team application form)",
+    "link": "https://robotiquefirstquebec.org/",
+    "status": "rolling",
+    "details": "There's no direct per-team grant application listed on the site — funding flows through Robotique FIRST Québec's own operations, which are backed by founding partners including the J. Armand Bombardier Foundation (a $50,000 grant in June 2025), BMO Financial Group, and Fusion Jeunesse. Contact the organization directly to ask about team-level support for Quebec FLL, FTC, or FRC teams.",
+    "country": "Canada",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "ontario-ftc-first-second-year-grants",
+    "name": "Ontario FTC First & Second-Year Team Grants",
+    "org": "FIRST Robotics Canada",
+    "type": "grant",
+    "description": "Ontario-specific FIRST Tech Challenge grants offered first-come first-served: a first-year grant for new teams and a smaller second-year grant for returning competitive teams.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "First-year grant ~$750 CAD; second-year grant ~$250 CAD",
+    "link": "https://firstroboticscanada.org/ftc/costs-and-grants/",
+    "status": "rolling",
+    "details": "Limited funding pool distributed first-come, first-served each season — apply as early as your registration window allows. The actual application form for the First-Year grant is the same one used for the national FTC First-Year Team Grant already listed separately in this dataset (firstroboticscanada.org/ftc/grantapplicationfirstyear/) — check that entry for the direct link. No separate public form was found specifically for the Second-Year grant; this page (costs-and-grants/) is the best available resource explaining both Ontario-specific amounts. This page returns a 403 to some automated fetch tools (consistent with other firstroboticscanada.org pages) but is confirmed live via search indexing.",
+    "country": "Canada",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "bechtel-fll-london-west-uk",
+    "name": "Bechtel FIRST LEGO League London West Regional Sponsorship",
+    "org": "Bechtel",
+    "type": "sponsorship",
+    "description": "Bechtel is the National Sponsor running the London West FIRST LEGO League Challenge regional tournament in the UK, distinct from Bechtel's separate global FRC team sponsorship.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Tournament-level sponsorship (regional event funding, not per-team cash)",
+    "link": "https://education.theiet.org/first-lego-league-programmes/how-we-make-a-difference/our-sponsors-and-donors",
+    "status": "rolling",
+    "details": "This funds and runs the London West regional tournament itself rather than issuing per-team grants — UK teams benefit by having a funded, free-to-enter regional event in their area. Contact the IET (FIRST LEGO League UK's delivery partner) for details on this and other regional sponsorships.",
+    "country": "United Kingdom",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "quickline-fll-yorkshire-uk",
+    "name": "Quickline Communications FIRST LEGO League Yorkshire Sponsorship",
+    "org": "Quickline Communications Limited",
+    "type": "sponsorship",
+    "description": "A rural broadband provider sponsoring FIRST LEGO League access for 36 hard-to-reach Yorkshire schools, covering both Explore and Challenge age groups for roughly 2,160 students.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Full programme access (Explore & Challenge) for 36 sponsored Yorkshire schools",
+    "link": "https://education.theiet.org/first-lego-league-programmes/how-we-make-a-difference/our-sponsors-and-donors",
+    "status": "rolling",
+    "details": "Regional sponsorship targeted specifically at hard-to-reach Yorkshire schools rather than an open national application — if your school is in Quickline's Yorkshire coverage area, ask the IET whether sponsored slots remain for the current season.",
+    "country": "United Kingdom",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "qualcomm-fll-cambridge-cork",
+    "name": "Qualcomm FIRST LEGO League Cambridge & Cork Sponsorship",
+    "org": "Qualcomm",
+    "type": "sponsorship",
+    "description": "Qualcomm has sponsored FIRST LEGO League Challenge for several years in both Cambridge, UK and Cork, Ireland — regional sponsorship near its own R&D sites in both countries.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Regional programme sponsorship (Cambridge, UK and Cork, Ireland)",
+    "link": "https://education.theiet.org/first-lego-league-programmes/how-we-make-a-difference/our-sponsors-and-donors",
+    "status": "rolling",
+    "details": "Tied to Qualcomm's own site locations in Cambridge and Cork rather than a nationwide open application — teams near either site should ask the IET (UK) or FLL Ireland whether current Qualcomm-sponsored slots are available.",
+    "countries": [
+      "United Kingdom",
+      "Ireland"
+    ],
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "penoles-mexico-frc-sponsorship",
+    "name": "Peñoles FIRST Robotics Sponsorship",
+    "org": "Industrias Peñoles",
+    "type": "sponsorship",
+    "description": "Mining company Peñoles has sponsored FIRST Robotics teams in Mexico since 2012, presenting the FIRST Laguna Regional (15 years running) and directly sponsoring 25 of the 42 teams at that event, plus FLL teams.",
+    "programs": [
+      "FLL",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; direct team sponsorship plus event presentation of the FIRST Laguna Regional",
+    "link": "https://www.penoles.com.mx/",
+    "status": "rolling",
+    "details": "No public online application — sponsorship is arranged through Peñoles' community/education relations, historically concentrated around the Laguna region (Coahuila/Durango) where Peñoles has operations, though it has also supported teams in other Mexican states. Ask about current-season sponsorship through Peñoles' corporate site.",
+    "country": "Mexico",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "fundacion-azteca-mexico-frc-sponsorship",
+    "name": "Fundación Azteca FIRST Robotics Team Sponsorship",
+    "org": "Fundación Azteca (Grupo Salinas)",
+    "type": "sponsorship",
+    "description": "Fundación Azteca has directly sponsored multiple Mexican FIRST Robotics Competition teams (including teams that reached FRC Championship quarterfinals), covering operating costs alongside mentorship.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; historically covers operating/travel costs for sponsored teams",
+    "link": "https://www.fundacionazteca.org/",
+    "status": "rolling",
+    "details": "No public per-team application form — sponsorship has been tied to Fundación Azteca's own Plantel Azteca schools and existing relationships rather than an open call. Contact Fundación Azteca directly to ask about current-season opportunities.",
+    "country": "Mexico",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "fundacion-robotix-fll-mexico",
+    "name": "Fundación RobotiX FIRST LEGO League México",
+    "org": "Fundación RobotiX",
+    "type": "grant",
+    "description": "A Mexican STEM foundation (900,000+ students reached since 2014) that organizes FIRST LEGO League México nationally, bringing programs to public schools and community centers through corporate and government partnerships.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (school/community program access; funded via corporate partners including Aptiv, Bosch, LEGO Foundation, Nissan)",
+    "link": "https://fundacionrobotix.org/",
+    "status": "rolling",
+    "details": "Schools and community centers get involved through partnerships arranged directly with the foundation rather than a public online application — email contacto@fundacionrobotix.org to ask about bringing FLL to your school. Has partnered with Mexico State's education ministry (SECTI/COMECyT) to fund 200+ robotics clubs in that state alone.",
+    "country": "Mexico",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "tec-monterrey-beca-talento-steam",
+    "name": "Tec de Monterrey Beca Talento STEAM (Robotics Track)",
+    "org": "Tecnológico de Monterrey",
+    "type": "grant",
+    "description": "A PrepaTec high-school tuition scholarship (20%, 40%, or 60% off) for students who join the PrepaTec Robotics team and compete in FIRST Tech Challenge, moving up to FIRST Robotics Competition based on performance.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2027-02-08",
+    "amount": "20%, 40%, or 60% of PrepaTec tuition per year",
+    "link": "https://tec.mx/es/prepatec/becas",
+    "status": "upcoming",
+    "details": "Requires a minimum 80/100 admission GPA. There's no standalone scholarship form — once you have an active PrepaTec admission application, log into solicitud.tec.mx, go to \"Becas y Apoyos Educativos,\" and select \"Beca al Talento STEAM,\" then submit a portfolio and video of robotics project experience and complete an on-campus evaluation (a mechanical design challenge or a programming/electronics challenge). Applications close February 8, 2027, with results announced March 11, 2027.",
+    "country": "Mexico",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "macquarie-university-first-australia-scholarship",
+    "name": "Macquarie University FIRST Australia Scholarship & ATAR Pathway",
+    "org": "Macquarie University (FIRST Australia)",
+    "type": "grant",
+    "description": "A $5,000/year undergraduate scholarship (up to 4 years) plus up to 10 ATAR adjustment points for Faculty of Science and Engineering degrees, open to students who participated in FIRST Tech Challenge or FIRST Robotics Competition in Australia.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "2025-11-23",
+    "amount": "$5,000 AUD/year for up to 4 years (scholarship); up to 10 ATAR adjustment points (separate pathway)",
+    "link": "https://www.firstaustralia.org/pathways-to-macquarie-university",
+    "status": "closed",
+    "details": "Open to Australian/NZ citizens, permanent residents, or visa holders starting full-time undergraduate study at Macquarie's Faculty of Science and Engineering. Requires FIRST event participation certificates and Year 11 results; the ATAR adjustment track separately covers current HSC students (years 11-12 participation) and non-current school leavers within 3 years of involvement. There's no single standalone form for FIRST participants — apply through Macquarie University's own general Scholarship Application portal (linked from this page) once you begin an enrolment application, or the separate Adjustment Factors / Leaders and Achievers Scheme portals for the ATAR track. This cycle's scholarship window (Sept 1 - Nov 23, 2025) and ATAR window (Aug 9 - Nov 28, 2025) have closed — check the page for the next cycle's dates.",
+    "country": "Australia",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "penny-foerderpenny-germany-fll",
+    "name": "PENNY \"Förderpenny\" FIRST LEGO League Germany Sponsorship",
+    "org": "PENNY (REWE Group)",
+    "type": "sponsorship",
+    "description": "German discount supermarket chain PENNY selected HANDS on TECHNOLOGY e.V. (FIRST LEGO League's German operator) for its nationwide \"Förderpenny\" customer-donation program, running for one year starting November 2025.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (funded via customer donations collected nationwide through PENNY stores)",
+    "link": "https://www.hands-on-technology.org/en/news",
+    "status": "rolling",
+    "details": "This is a nationwide retail customer-donation campaign rather than a direct per-team grant application — funds raised through PENNY's Förderpenny program go to HANDS on TECHNOLOGY e.V. to support FIRST LEGO League broadly in Germany. Contact HANDS on TECHNOLOGY e.V. to ask how the current round's funds are being distributed to teams.",
+    "country": "Germany",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "saxony-mitmachfonds-fll-classroom",
+    "name": "Sächsischer Mitmach-Fonds FLL Classroom Project (Saxony)",
+    "org": "Sächsischer Mitmach-Fonds (with HANDS on TECHNOLOGY e.V.)",
+    "type": "grant",
+    "description": "A Saxony-region participation fund that selected five model schools in Leipzig and Nordsachsen for a full-classroom FIRST LEGO League project, each receiving a roughly €2,000 startup package of LEGO Mindstorms robot sets, playing fields, and materials.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "rookie-only",
+    "deadline": "rolling",
+    "amount": "~€2,000 per school (3 robot sets, 3 playing fields, and program materials)",
+    "link": "https://www.mitmachfonds-sachsen.de/first-lego-league-klassenprojekt/",
+    "status": "closed",
+    "details": "This was a one-time model-school selection (five schools chosen from Leipzig/Nordsachsen applicants around September 2019) rather than an annually recurring open grant — check the Mitmach-Fonds Sachsen site directly for whether a new round is running, and note it funds whole classrooms (not just a single competition team), letting schools run FLL as an in-class project.",
+    "country": "Germany",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "deutsche-postcode-lotterie-fll-saxony-anhalt",
+    "name": "Deutsche Postcode Lotterie FLL Grants (Saxony-Anhalt)",
+    "org": "Deutsche Postcode Lotterie",
+    "type": "grant",
+    "description": "The German Postcode Lottery's charitable arm funded a \"Find and support MINThusiasts!\" project enabling free FIRST LEGO League · In the Classroom participation for secondary schools across Saxony-Anhalt, awarding 10 grants in the 2022-23 school year.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Free program participation (covers registration/materials); 10 grants awarded in the most recently documented round",
+    "link": "https://www.postcode-lotterie.de/guter-zweck/projektfoerderung/foerderung-beantragen",
+    "status": "closed",
+    "details": "Limited to secondary schools in Saxony-Anhalt, Germany, applying through HANDS on TECHNOLOGY e.V.'s classroom program. IMPORTANT: as of this check, the Postcode Lottery's project-funding page explicitly states it is accepting no new applications or expressions of interest while it develops its process further, with new applications expected to reopen in 2027. Contact projekt@postcode-lotterie.de (phone 0211-942838-22) to ask about the 2027 reopening, or check the linked postcode-lotterie.my.site.com portal for status.",
+    "country": "Germany",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "sap-austria-fll-team-grant",
+    "name": "SAP Grant for Austrian FIRST LEGO League Teams",
+    "org": "SAP",
+    "type": "grant",
+    "description": "SAP funds a per-team grant (historically ~€289, covering the participation fee, game field, and shipping) for financially disadvantaged Austrian FIRST LEGO League Challenge teams, with a preference for teams with a high proportion of girls.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "~€289 per team (participation fee + game field + shipping)",
+    "link": "https://www.robotix4me.at/sap-foerderung-fuer-oesterreichische-teams/",
+    "status": "rolling",
+    "details": "SAP funds a per-team grant (historically ~€289, covering the participation fee, game field, and shipping) for financially disadvantaged Austrian FIRST LEGO League Challenge teams, with a preference for teams with a high proportion of girls. There is no online application form — teams apply by emailing a completed Excel spreadsheet (with your school's SKZ/Schulkennzahl added to the filename) directly to info.austria@sap.com. The documented window referenced the 2020-21 season specifically, so confirm with robotix4me.at or HANDS on TECHNOLOGY e.V. whether the program is running again this season before assuming the same process applies.",
+    "country": "Austria",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "ftc-benelux-netherlands",
+    "name": "FTC Benelux (Netherlands FIRST Tech Challenge Program)",
+    "org": "FTC Benelux",
+    "type": "grant",
+    "description": "The official FIRST Tech Challenge delivery organization for the Netherlands, Belgium, and Luxembourg, running the FTC Netherlands League Championship and reaching about 2,000 students across the region each year.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (no published direct-funding figure; connects teams to regional partners)",
+    "link": "https://www.ftcbenelux.eu/participate/",
+    "status": "rolling",
+    "details": "This is the national program-delivery organization for Dutch FTC teams rather than a confirmed direct grant — its site does not publish specific team funding amounts, but it lists a partners program and is the right first contact for Dutch teams asking about sponsorship or fee support. Email info@ftcbenelux.eu to ask about current-season options.",
+    "country": "Netherlands",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "fll-poland-ufunduj-stypendium",
+    "name": "FIRST LEGO League Poland Scholarship Patronage (Ufunduj Stypendium)",
+    "org": "Fundacja Future Minds / ALE Foundation",
+    "type": "grant",
+    "description": "A patronage mechanism letting companies or individuals fund a scholarship for a specific Polish FLL team or school seeking support, coordinated directly by the national FLL Poland organizer.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies by patron (individually arranged scholarship funding)",
+    "link": "https://fll.edu.pl/mecenat/",
+    "status": "rolling",
+    "details": "Rather than a fixed grant pool, teams or schools seeking funding are matched with a sponsor willing to become their patron. Contact Katarzyna Nogalska (president of the ALE Foundation and FLL Poland program coordinator) directly at katarzyna.nogalska@fll.edu.pl to be listed as seeking sponsorship or to inquire about current patron availability.",
+    "country": "Poland",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "arcelormittal-aeit-asturias-fll",
+    "name": "ArcelorMittal España AEIT Asturias FLL Scholarships",
+    "org": "AEIT Asturias (funded by ArcelorMittal España & ArcelorMittal Global R&D Spain)",
+    "type": "grant",
+    "description": "Up to 12 scholarships per season for FIRST LEGO League Challenge teams (up to 10 students each) in Asturias, Spain, funded by ArcelorMittal and run with the University of Oviedo's engineering school.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Covers team registration/participation for up to 12 teams per season",
+    "link": "https://www.aeit.es/first-lego-league-asturias-formulario",
+    "status": "closed",
+    "details": "Schools apply through AEIT's formal request form; full eligibility and selection criteria are in the scholarship bases document on their site. Limited to Asturias-region teams. Scholarships also include access to national/international event participation, guided by the University of Oviedo's engineering school. This links directly to AEIT's scholarship application form. As of this check it displays \"Formulario cerrado\" (form closed) — the 2025-26 window (Sept 23 - Oct 3, 2025) has passed and next cycle's dates aren't posted yet, but this is the real application entry point to check again when it reopens.",
+    "country": "Spain",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "fll-euskadi-innobasque",
+    "name": "FIRST LEGO League Euskadi (Innobasque, with BBK & Iberdrola)",
+    "org": "Innobasque (Basque Innovation Agency), sponsored by BBK, Iberdrola & Basque Government departments",
+    "type": "sponsorship",
+    "description": "The Basque Country's regional FLL program, run since 2009 by the Basque government's innovation agency with three Basque universities, funded by sponsors including BBK and Iberdrola, plus regional education/innovation ministries.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Free regional tournament participation + sponsor-funded company/research-center visits",
+    "link": "https://www.innobasque.eus/educacion-steam/first-lego-league-euskadi/",
+    "status": "rolling",
+    "details": "Not a cash grant to individual teams — funding covers running the regional tournament (held simultaneously in Bilbao, Donostia, Mondragón & Vitoria-Gasteiz) and unique sponsor-arranged visits to companies and technology/research centers tied to each year's challenge theme. Enroll through the national FIRST LEGO League Spain (Ingeniera Soy) site.",
+    "country": "Spain",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "vodafone-romania-ftc-sponsorship",
+    "name": "Vodafone Romania FTC Co-Sponsorship",
+    "org": "Vodafone Romania",
+    "type": "sponsorship",
+    "description": "Vodafone Romania is the co-namesake sponsor of \"BRD FIRST Tech Challenge Romania powered by Vodafone,\" providing an estimated €280,000 in free kits and equipment across the program's 48 participating high schools.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Part of ~€280,000 in program-wide kits/equipment (shared across all enrolled teams, not per-team cash)",
+    "link": "https://business-review.eu/news/over-800-students-enroll-in-brd-first-tech-challenge-romania-powered-by-vodafone-125272",
+    "status": "rolling",
+    "details": "Funding flows through the national program (register via Nație prin Educație, listed separately) rather than a direct per-team Vodafone application — Vodafone's support covers free kits/equipment and webinars/training access for all enrolled teams rather than cash grants.",
+    "country": "Romania",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "turknet-frc-turkiye-sponsorship",
+    "name": "TurkNet FRC Türkiye Communications Sponsorship",
+    "org": "TurkNet",
+    "type": "sponsorship",
+    "description": "TurkNet has served as the recurring communications/technology sponsor of FIRST Robotics Competition Türkiye for multiple consecutive years, providing fiber internet support for the national event.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Event-level communications/infrastructure sponsorship (not a per-team cash grant)",
+    "link": "https://www.turk.net/frc",
+    "status": "rolling",
+    "details": "This is national-event infrastructure sponsorship (fast, uninterrupted internet for the competition) rather than team-facing funding — there's no separate team application. Contact FRC Türkiye directly about the event and its sponsor list. Note: the original frcturkiye.org/sponsorlar/ link 404s — this points to TurkNet's own FRC sponsorship page instead.",
+    "country": "Türkiye",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "tau-siemens-frc-turkiye-grant",
+    "name": "Türk-Alman Üniversitesi & Siemens FRC Türkiye Support",
+    "org": "Türk-Alman Üniversitesi (TAU) & Siemens",
+    "type": "sponsorship",
+    "description": "Mentoring, workshop-facility access, and sponsorship support offered to FRC teams competing in a Turkish regional, run jointly by Türk-Alman Üniversitesi and Siemens.",
+    "programs": [
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: mentoring, workshop access + sponsorship support",
+    "link": "https://frcturkiye.org/hibeler/",
+    "status": "rolling",
+    "details": "Mentoring, workshop-facility access, and sponsorship support offered to FRC teams competing in a Turkish regional, run jointly by Türk-Alman Üniversitesi and Siemens. Requires participating in an FRC Regional competition in Turkey to qualify. The frcturkiye.org/hibeler/ page names a specific application deadline (Sept 19, 2025 in the most recently documented cycle) and links to further application details from that page itself — but the underlying direct-application URL isn't a stable, separately linkable page, so check frcturkiye.org/hibeler/ each year and click through from there for the current window's specific form.",
+    "country": "Türkiye",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "vishwakarma-university-ftc-india-scholarship",
+    "name": "Vishwakarma University FTC India Scholarship",
+    "org": "Vishwakarma University",
+    "type": "grant",
+    "description": "Vishwakarma University, title sponsor of the FIRST Tech Challenge India Championship, introduced scholarships in 2024-25 for students who participate in or volunteer at the event.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (scholarship for participating/volunteering students)",
+    "link": "https://maharashtralokmanch.com/2025/03/01/grand-inauguration-of-first-tech-challenge-india-championship-2024-25/",
+    "status": "rolling",
+    "details": "Announced by Dr. Siddharth Jabade at the 2024-25 championship inauguration: \"From this year, Vishwakarma University will offer scholarships to students participating and volunteering in the event.\" This is separate from the general FTC India Sponsor-a-Student program — contact FTC India or Vishwakarma University directly for current scholarship terms, since the announcement didn't specify a fixed amount or a standalone application form.",
+    "country": "India",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "bajaj-auto-ftc-india-kit-sponsorship",
+    "name": "FTC India Championship Robotics Kit Sponsorship (Bajaj Auto & Partners)",
+    "org": "Bajaj Auto Ltd. (with John Deere, Dow, RTX & InfinityX STEM Foundation)",
+    "type": "sponsorship",
+    "description": "Bajaj Auto Ltd. joined other corporate sponsors to fund 20 robotics kits for FTC India Championship students from economically disadvantaged backgrounds, a recurring commitment across multiple championship years.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "20 sponsored robotics kits per championship cycle (shared across sponsors)",
+    "link": "https://maharashtralokmanch.com/2025/03/01/grand-inauguration-of-first-tech-challenge-india-championship-2024-25/",
+    "status": "rolling",
+    "details": "This is a championship-level in-kind kit donation coordinated by InfinityX STEM Foundation (India's FTC Program Delivery Partner) rather than a per-team application — teams from rural areas, municipal-corporation schools, and remote regions (Ladakh, Assam, Dharavi) have been past recipients. Contact InfinityX STEM Foundation or FTC India directly to ask about eligibility for the next championship cycle.",
+    "country": "India",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "sarao-fll-northern-cape-support",
+    "name": "SARAO FIRST LEGO League Northern Cape Support",
+    "org": "South African Radio Astronomy Observatory (SARAO)",
+    "type": "sponsorship",
+    "description": "SARAO's Human Capital Development Programme hosts and supports FIRST LEGO League regional and provincial competitions across the Northern Cape, and has funded specific teams' travel to international FLL championships (Morocco Open, FLL Open Africa).",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (event hosting, judging/volunteer support, and travel funding for select teams to international events)",
+    "link": "https://www.sarao.ac.za/news/sarao-celebrates-local-talent-as-carnarvons-sharpshooters-dominate-at-the-first-lego-league-robotics-competition/",
+    "status": "rolling",
+    "details": "SARAO runs this as part of its long-standing Schools Programme in the Northern Cape (tied to the Square Kilometre Array project's local community investment), partnering with Tshwane University of Technology and UNISA's I-SET — it isn't an open online application, so schools in the Northern Cape (Carnarvon, Williston, Loxton, Vosburg, Sutherland, Brandvlei, Kimberley) should contact SARAO's Schools Programme directly to get involved.",
+    "country": "South Africa",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "fll-korea-sponsors-partners",
+    "name": "FIRST LEGO League Korea Sponsors & Partners",
+    "org": "Imagine Association (with Cubroid, Dong-A Science & other Korean partners)",
+    "type": "sponsorship",
+    "description": "FIRST LEGO League Korea lists its current season sponsors and partner organizations, including robotics-kit maker Cubroid and science media outlet Dong-A Science, alongside academic and industry partners.",
+    "programs": [
+      "FLL"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (event-level sponsorship, not per-team funding)",
+    "link": "https://firstlegoleague.or.kr/36",
+    "status": "rolling",
+    "details": "This is national tournament-level sponsorship rather than a per-team grant — the page itself notes FLL Korea is actively seeking additional sponsors and partners. Contact Imagine Association (fll.korea@imagine.or.kr) about current partnership opportunities for schools.",
+    "country": "South Korea",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "dassault-systemes-solidworks-france",
+    "name": "Dassault Systèmes & La Fondation Dassault Systèmes Partnership",
+    "org": "Dassault Systèmes / La Fondation Dassault Systèmes",
+    "type": "sponsorship",
+    "description": "Key partners of Robotique FIRST France since its founding in 2022, providing free SOLIDWORKS and 3DEXPERIENCE software licenses to French student teams alongside broader program support.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "In-kind: free SOLIDWORKS desktop, SOLIDWORKS Cloud Apps & 3DEXPERIENCE platform licenses",
+    "link": "http://blogs.solidworks.com/products/solidworks/educational-robotics-with-first-inspiring-the-next-generation",
+    "status": "rolling",
+    "details": "This is a software and program-level partnership rather than a per-team cash grant — teams get free access to Dassault Systèmes' CAD tools through Robotique FIRST France's program setup, not a separate application. The partnership has run since Robotique FIRST France's first season and is credited alongside EDF and the Gene Haas Foundation as a backer of the national Défi Robotique final.",
+    "country": "France",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "syntec-ingenierie-concepteurs-avenirs-france",
+    "name": "Syntec-Ingénierie & Concepteurs d'Avenirs Member Company Support",
+    "org": "Syntec-Ingénierie (engineering industry federation)",
+    "type": "sponsorship",
+    "description": "France's engineering-industry federation became a partner of Robotique FIRST France in March 2023, inviting member engineering firms to fund teams financially or contribute employee expertise as mentors.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies by member company (financial support and/or employee mentoring)",
+    "link": "https://www.syntec-ingenierie.fr/actualites/robotic-first-france/",
+    "status": "rolling",
+    "details": "There's no single federation-wide grant — individual Syntec-Ingénierie member firms (e.g. Vulcain Engineering Group, listed separately) choose whether to sponsor a team financially or send professionals to mentor students. Ask Robotique FIRST France whether a member firm is active near your team's region.",
+    "country": "France",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "vulcain-engineering-france-sponsorship",
+    "name": "Vulcain Engineering Group Robotique FIRST France Sponsorship",
+    "org": "Vulcain Engineering Group",
+    "type": "sponsorship",
+    "description": "A multi-year Robotique FIRST France partner that finances team equipment and mobilizes employees from several of its subsidiaries (VSER, Consultys, Infogene, Sofren Group, CCAMY Systems) as student mentors.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (equipment financing + employee mentors across project management, electrical engineering, mechanics & robotics)",
+    "link": "https://www.vulcain-eng.com/en/actualities/vulcain-becomes-partner-robotics-first-france",
+    "status": "rolling",
+    "details": "No public per-team application — Vulcain has taken part for multiple consecutive seasons as a corporate partner. Reach out through Robotique FIRST France to ask whether Vulcain (or another Syntec-Ingénierie member) is supporting teams in your region this season.",
+    "country": "France",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "fondation-grenoble-inp-ftc",
+    "name": "Fondation Grenoble INP FIRST Tech Challenge Support",
+    "org": "Fondation Grenoble INP",
+    "type": "grant",
+    "description": "The foundation of the Grenoble Institute of Technology backs the French edition of FIRST Tech Challenge as an educational initiative, inviting organizations to become privileged partners of the competition.",
+    "programs": [
+      "FTC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies; specific amounts not published",
+    "link": "https://fondation-grenoble-inp.fr/en/nos-actions/first-tech-challenge/",
+    "status": "rolling",
+    "details": "Public details on funding amounts, eligibility, or an application process are not published on the foundation's page — contact Fondation Grenoble INP directly through their site to ask about current-season support for FTC teams, particularly those near Grenoble.",
+    "country": "France",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "fpl-first-robotics-grant",
+    "name": "FPL Robotics Team Grant & Scholarship",
+    "org": "Florida Power & Light (FPL)",
+    "type": "grant",
+    "description": "FPL directly sponsors FIRST, VEX, and B.E.S.T. robotics teams across its Florida service territory, funding travel and competition costs, plus a separate $20,000 FIRST Robotics Scholarship for a graduating senior with 2+ years on a team.",
+    "programs": [
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "FL"
+    ],
+    "eligibility": "veteran-only",
+    "deadline": "rolling",
+    "amount": "Varies (team grants); $20,000 one-time scholarship (separate program, opens ~Feb-April)",
+    "link": "https://forms.office.com/r/3wyCtjyfnY",
+    "status": "rolling",
+    "details": "Apply through STEM2 Hub's online form with an FPL request-for-funding form and W-9; allow up to 45 days for processing and payment. Only public, private, and charter school teams within FPL's Florida service territory qualify (check FPL's coverage map) — community clubs outside the territory are not eligible, and teams must have existed for over a year. Budget caps apply each season and funds are not replenished once exhausted. The separate $20,000 scholarship is for graduating seniors, not teams directly.",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "walmart-spark-good-local-grants",
+    "name": "Walmart & Sam's Club Spark Good Local Grants",
+    "org": "Walmart.org",
+    "type": "grant",
+    "description": "General community grants ($250-$5,000) from individual Walmart stores, Sam's Clubs, and Distribution Centers to local 501(c)(3) nonprofits and schools — not robotics-specific, but explicitly open to STEM/technology education uses.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "$250 - $5,000",
+    "link": "https://www.walmart.org/how-we-give/program-guidelines/spark-good-local-grants-guidelines",
+    "status": "rolling",
+    "details": "This is a general community-grant program, not a dedicated FIRST/robotics fund — your team (or its fiscal sponsor, e.g. a school or booster club) applies as any local nonprofit would. Requires a verified Spark Good account via Walmart's Deed platform. Three application cycles per fiscal year: Feb 1-Apr 15, May 1-Jul 15, and Aug 1-Nov 30. Funding comes from the specific local store/club/DC nearest your team, not a national pool.",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "costco-charitable-contributions",
+    "name": "Costco Wholesale Charitable Contributions",
+    "org": "Costco Wholesale",
+    "type": "grant",
+    "description": "General community grants (up to $5,000) for 501(c)(3) nonprofits working in children, education, or health/human services — not robotics-specific, but a real, open application usable by a school-sponsored or booster-club-backed FIRST team.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Up to $5,000 (capped at 10% of your program budget)",
+    "link": "https://www.costco.com/charitable-giving.html",
+    "status": "rolling",
+    "details": "Not a FIRST-specific program — Costco funds children's/education/health nonprofits generally, reviewed on a rolling basis (one request per fiscal year, Sept 1-Aug 31). Apply online with a cover letter and budget documents; decisions take 4-6 weeks. Your team needs 501(c)(3) status itself or a fiscal sponsor (school, booster club) that has it, and framing your application around measurable educational outcomes matters more than mentioning robotics specifically.",
+    "verifiedOn": "2026-08-27"
+  },
+  {
+    "id": "publix-charities-community-giving",
+    "name": "Publix Charities Community Giving Request",
+    "org": "Publix Super Markets Charities",
+    "type": "grant",
+    "description": "General donation/sponsorship request program for youth and education nonprofits in Publix's operating region — not robotics-specific, but real and open to school/booster-club-backed FIRST teams.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": [
+      "FL",
+      "GA",
+      "AL",
+      "TN",
+      "SC",
+      "NC",
+      "VA",
+      "KY"
+    ],
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (donations, gift cards, sponsorships, or program ads; amounts not published)",
+    "link": "https://corporate.publix.com/community/requests",
+    "status": "rolling",
+    "details": "General donation/sponsorship request program for youth and education nonprofits in Publix's operating region — not robotics-specific, but real and open to school/booster-club-backed FIRST teams. There is no single fixed-URL application form — corporate.publix.com/community/requests is the correct starting landing page, which routes to a \"Request Support\" flow (and, separately, publixcharities.org for larger nonprofit grant requests); an organization representative registers there to submit the request. Only available in Publix's operating states.",
+    "verifiedOn": "2026-08-29"
+  },
+  {
+    "id": "kroger-community-rewards-fundraising",
+    "name": "Kroger Community Rewards",
+    "org": "The Kroger Co.",
+    "type": "sponsorship",
+    "description": "A passive fundraising mechanism (not a competitive grant) where shoppers link their Kroger card to a chosen nonprofit, including FIRST teams like FRC Team 862 (Lightning Robotics), and a share of their grocery spending is donated automatically.",
+    "programs": [
+      "FLL",
+      "FTC",
+      "FRC"
+    ],
+    "states": "all",
+    "eligibility": "both",
+    "deadline": "rolling",
+    "amount": "Varies (small % of enrolled shoppers' purchases; no cap on team enrollment)",
+    "link": "https://www.kroger.com/i/community/community-rewards",
+    "status": "rolling",
+    "details": "This isn't a grant application — it's a low-effort, ongoing revenue-share: register your team as a nonprofit organization on Kroger's Community Rewards platform, then have supporters link the program to their Kroger Plus/digital account. Only meaningful in states with Kroger-family stores (Kroger, Ralphs, Fred Meyer, King Soopers, etc.), and payouts are small per-shopper but recur automatically with no reapplication needed.",
+    "verifiedOn": "2026-08-27"
   }
 ]
