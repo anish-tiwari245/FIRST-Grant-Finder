@@ -70,6 +70,7 @@ function App() {
 
   return (
     <div className="app">
+      <div className="header__super">Stratos</div>
       <header className="header">
         <div className="header__brand">
           <span className="header__mark">GF</span>
