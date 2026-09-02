@@ -35,15 +35,6 @@
   color: var(--text);
 }
 
-.header__super {
-  font-family: var(--font-head);
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  color: #ffffff;
-  margin: 0 0 12px;
-}
-
 .header {
   display: flex;
   justify-content: space-between;
