@@ -220,6 +220,14 @@ function App() {
           ))}
         </div>
       )}
+
+      <footer className="footer">
+        <img className="footer__logo" src="/stratos-logo.png" alt="FTC Team 31071 Stratos logo" />
+        <span className="footer__text">Built by FTC Team 31071 - Stratos</span>
+        <a className="footer__contact" href="mailto:ftc.stratos@gmail.com">
+          ftc.stratos@gmail.com
+        </a>
+      </footer>
     </div>
   );
 }

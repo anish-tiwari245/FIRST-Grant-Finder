@@ -6,6 +6,35 @@
 
 /* ---------- Header ---------- */
 
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 40px;
+  padding: 20px 0;
+  border-top: 1px solid var(--border);
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.footer__logo {
+  width: 22px;
+  height: 22px;
+  border-radius: 4px;
+  object-fit: contain;
+}
+
+.footer__contact {
+  color: var(--text-dim);
+  text-decoration: underline;
+}
+
+.footer__contact:hover {
+  color: var(--text);
+}
+
 .header__super {
   font-family: var(--font-head);
   font-size: 0.8rem;
