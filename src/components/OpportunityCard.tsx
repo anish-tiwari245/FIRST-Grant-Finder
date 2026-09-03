@@ -1,16 +1,25 @@
 import { useState } from "react";
 import { useBookmarks } from "../context/BookmarksContext";
 import { useInView } from "../hooks/useInView";
-import type { Opportunity } from "../types";
+import type { ApplicationStatus, Opportunity } from "../types";
 import { daysAgo, deadlineCountdownLabel, formatDate, formatDeadline, isClosingSoon } from "../utils/date";
 
 const STALE_AFTER_DAYS = 60;
 
+const APPLICATION_STATUS_LABELS: Record<ApplicationStatus, string> = {
+  "not-started": "Not started",
+  applied: "Applied",
+  submitted: "Submitted",
+  awarded: "Awarded",
+  rejected: "Rejected",
+};
+
 export function OpportunityCard({ opportunity }: { opportunity: Opportunity }) {
   const [open, setOpen] = useState(false);
   const { ref, inView } = useInView<HTMLElement>();
-  const { isBookmarked, toggleBookmark } = useBookmarks();
+  const { isBookmarked, toggleBookmark, getEntry, setStatus, setNote } = useBookmarks();
   const bookmarked = isBookmarked(opportunity.id);
+  const entry = getEntry(opportunity.id);
   const soon = isClosingSoon(opportunity.deadline);
   const rolling = opportunity.deadline === "rolling";
   const verifiedDaysAgo = daysAgo(opportunity.verifiedOn);
@@ -114,6 +123,35 @@ export function OpportunityCard({ opportunity }: { opportunity: Opportunity }) {
               </div>
             </div>
           </>
+        )}
+
+        {bookmarked && (
+          <div className="card__tracker">
+            <div className="card__trackerrow">
+              <label className="card__trackerlabel" htmlFor={`tracker-status-${opportunity.id}`}>
+                Application status
+              </label>
+              <select
+                id={`tracker-status-${opportunity.id}`}
+                className={`card__trackerselect card__trackerselect--${entry.status}`}
+                value={entry.status}
+                onChange={(e) => setStatus(opportunity.id, e.target.value as ApplicationStatus)}
+              >
+                {Object.entries(APPLICATION_STATUS_LABELS).map(([value, label]) => (
+                  <option key={value} value={value}>
+                    {label}
+                  </option>
+                ))}
+              </select>
+            </div>
+            <textarea
+              className="card__trackernote"
+              placeholder="Notes (contact, submitted date, next steps...)"
+              value={entry.note}
+              onChange={(e) => setNote(opportunity.id, e.target.value)}
+              rows={2}
+            />
+          </div>
         )}
 
         <div className="card__footer">

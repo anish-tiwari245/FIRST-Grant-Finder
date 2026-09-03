@@ -6,6 +6,8 @@ export type Eligibility = "rookie-only" | "veteran-only" | "both";
 
 export type OpportunityStatus = "upcoming" | "open" | "closed" | "rolling";
 
+export type ApplicationStatus = "not-started" | "applied" | "submitted" | "awarded" | "rejected";
+
 export interface Opportunity {
   id: string;
   name: string;

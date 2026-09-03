@@ -601,6 +601,72 @@
   line-height: 1.5;
 }
 
+.card__tracker {
+  margin: 2px 0 14px;
+  padding: 10px 12px;
+  background: var(--bg-inset);
+  border-left: 2px solid var(--border-strong);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card__trackerrow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.card__trackerlabel {
+  font-family: var(--font-head);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+}
+
+.card__trackerselect {
+  background: var(--bg-raised);
+  color: var(--text);
+  border: 1px solid var(--border-strong);
+  padding: 5px 8px;
+  border-radius: 2px;
+  font-size: 0.82rem;
+}
+
+.card__trackerselect--awarded {
+  border-color: var(--open);
+  color: var(--open);
+}
+
+.card__trackerselect--rejected {
+  border-color: var(--urgent);
+  color: var(--urgent);
+}
+
+.card__trackerselect--applied,
+.card__trackerselect--submitted {
+  border-color: var(--upcoming);
+  color: var(--upcoming);
+}
+
+.card__trackernote {
+  background: var(--bg-raised);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  padding: 6px 8px;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  resize: vertical;
+}
+
+.card__trackernote:focus {
+  outline: 2px solid var(--grant);
+  outline-offset: -1px;
+}
+
 .card__footer {
   display: flex;
   justify-content: space-between;
