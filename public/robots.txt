@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://first-grant-finder.vercel.app/sitemap.xml
